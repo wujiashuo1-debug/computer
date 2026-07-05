@@ -31,3 +31,4 @@ README.md
 ```
 
 不要把外层文件夹整体套进去。
+update deploy
