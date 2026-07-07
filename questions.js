@@ -348,10 +348,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q031",
+    "id": "Q030",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 31,
+    "number": 30,
     "type": "term",
     "question": "名词解释：帧",
     "options": [],
@@ -360,10 +360,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q032",
+    "id": "Q031",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 32,
+    "number": 31,
     "type": "term",
     "question": "名词解释：ARQ",
     "options": [],
@@ -372,10 +372,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q033",
+    "id": "Q032",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 33,
+    "number": 32,
     "type": "term",
     "question": "名词解释：物理地址",
     "options": [],
@@ -384,10 +384,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q034",
+    "id": "Q033",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 34,
+    "number": 33,
     "type": "term",
     "question": "名词解释：集线器（hub）",
     "options": [],
@@ -396,10 +396,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q035",
+    "id": "Q034",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 35,
+    "number": 34,
     "type": "term",
     "question": "名词解释：网桥（bridge）",
     "options": [],
@@ -408,10 +408,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q036",
+    "id": "Q035",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 36,
+    "number": 35,
     "type": "term",
     "question": "名词解释：冲突",
     "options": [],
@@ -420,10 +420,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q037",
+    "id": "Q036",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 37,
+    "number": 36,
     "type": "term",
     "question": "名词解释：冲突域",
     "options": [],
@@ -432,10 +432,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q038",
+    "id": "Q037",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 38,
+    "number": 37,
     "type": "term",
     "question": "名词解释：介质访问控制MAC",
     "options": [],
@@ -444,10 +444,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q039",
+    "id": "Q038",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 39,
+    "number": 38,
     "type": "term",
     "question": "名词解释：CSMA/CD",
     "options": [],
@@ -456,10 +456,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q040",
+    "id": "Q039",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 40,
+    "number": 39,
     "type": "term",
     "question": "名词解释：以太网",
     "options": [],
@@ -468,10 +468,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q041",
+    "id": "Q040",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 41,
+    "number": 40,
     "type": "term",
     "question": "名词解释：以太网交换机",
     "options": [],
@@ -480,10 +480,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q042",
+    "id": "Q041",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 42,
+    "number": 41,
     "type": "term",
     "question": "名词解释：CSMA/CA",
     "options": [],
@@ -492,10 +492,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q043",
+    "id": "Q042",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 43,
+    "number": 42,
     "type": "term",
     "question": "名词解释：快速以太网",
     "options": [],
@@ -504,10 +504,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q044",
+    "id": "Q043",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 44,
+    "number": 43,
     "type": "term",
     "question": "名词解释：共享式局域网",
     "options": [],
@@ -516,10 +516,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q045",
+    "id": "Q044",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 45,
+    "number": 44,
     "type": "term",
     "question": "名词解释：交换式局域网",
     "options": [],
@@ -528,10 +528,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q046",
+    "id": "Q045",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 46,
+    "number": 45,
     "type": "term",
     "question": "名词解释：最大传输单元（MTU）",
     "options": [],
@@ -540,10 +540,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q047",
+    "id": "Q046",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 47,
+    "number": 46,
     "type": "term",
     "question": "名词解释：路由器",
     "options": [],
@@ -552,10 +552,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q048",
+    "id": "Q047",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 48,
+    "number": 47,
     "type": "term",
     "question": "名词解释：IP地址",
     "options": [],
@@ -564,10 +564,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q049",
+    "id": "Q048",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 49,
+    "number": 48,
     "type": "term",
     "question": "名词解释：IP协议",
     "options": [],
@@ -576,10 +576,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q050",
+    "id": "Q049",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 50,
+    "number": 49,
     "type": "term",
     "question": "名词解释：无类域间路由选择（CIDR）",
     "options": [],
@@ -588,10 +588,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q051",
+    "id": "Q050",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 51,
+    "number": 50,
     "type": "term",
     "question": "名词解释：路由",
     "options": [],
@@ -600,10 +600,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q052",
+    "id": "Q051",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 52,
+    "number": 51,
     "type": "term",
     "question": "名词解释：路由协议",
     "options": [],
@@ -612,10 +612,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q053",
+    "id": "Q052",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 53,
+    "number": 52,
     "type": "term",
     "question": "名词解释：RIP",
     "options": [],
@@ -624,10 +624,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q054",
+    "id": "Q053",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 54,
+    "number": 53,
     "type": "term",
     "question": "名词解释：静态路由",
     "options": [],
@@ -636,10 +636,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q055",
+    "id": "Q054",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 55,
+    "number": 54,
     "type": "term",
     "question": "名词解释：动态路由",
     "options": [],
@@ -648,10 +648,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q056",
+    "id": "Q055",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 56,
+    "number": 55,
     "type": "term",
     "question": "名词解释：ICMP",
     "options": [],
@@ -660,10 +660,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q057",
+    "id": "Q056",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 57,
+    "number": 56,
     "type": "term",
     "question": "名词解释：地址解析协议(ARP)",
     "options": [],
@@ -672,10 +672,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q059",
+    "id": "Q057",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 59,
+    "number": 57,
     "type": "term",
     "question": "名词解释：Ping命令",
     "options": [],
@@ -684,10 +684,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q060",
+    "id": "Q058",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 60,
+    "number": 58,
     "type": "term",
     "question": "名词解释：Tracert命令",
     "options": [],
@@ -696,10 +696,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q061",
+    "id": "Q059",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 61,
+    "number": 59,
     "type": "term",
     "question": "名词解释：TCP",
     "options": [],
@@ -708,10 +708,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q062",
+    "id": "Q060",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 62,
+    "number": 60,
     "type": "term",
     "question": "名词解释：UDP",
     "options": [],
@@ -720,10 +720,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q063",
+    "id": "Q061",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 63,
+    "number": 61,
     "type": "term",
     "question": "名词解释：流量控制",
     "options": [],
@@ -732,10 +732,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q064",
+    "id": "Q062",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 64,
+    "number": 62,
     "type": "term",
     "question": "名词解释：通知窗口",
     "options": [],
@@ -744,10 +744,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q065",
+    "id": "Q063",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 65,
+    "number": 63,
     "type": "term",
     "question": "名词解释：重传定时器",
     "options": [],
@@ -756,10 +756,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q066",
+    "id": "Q064",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 66,
+    "number": 64,
     "type": "term",
     "question": "名词解释：差错控制机制",
     "options": [],
@@ -768,10 +768,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q067",
+    "id": "Q065",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 67,
+    "number": 65,
     "type": "term",
     "question": "名词解释：拥塞控制机制",
     "options": [],
@@ -780,10 +780,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q068",
+    "id": "Q066",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 68,
+    "number": 66,
     "type": "term",
     "question": "名词解释：最大报文段长度（MSS）",
     "options": [],
@@ -792,10 +792,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q069",
+    "id": "Q067",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 69,
+    "number": 67,
     "type": "term",
     "question": "名词解释：DNS服务",
     "options": [],
@@ -804,10 +804,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q070",
+    "id": "Q068",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 70,
+    "number": 68,
     "type": "term",
     "question": "名词解释：E-mail 服务",
     "options": [],
@@ -816,10 +816,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q071",
+    "id": "Q069",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 71,
+    "number": 69,
     "type": "term",
     "question": "名词解释：FTP协议",
     "options": [],
@@ -828,10 +828,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q072",
+    "id": "Q070",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 72,
+    "number": 70,
     "type": "term",
     "question": "名词解释：DHCP 协议",
     "options": [],
@@ -840,10 +840,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q073",
+    "id": "Q071",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 73,
+    "number": 71,
     "type": "term",
     "question": "名词解释：HTTP协议",
     "options": [],
@@ -852,10 +852,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q074",
+    "id": "Q072",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 74,
+    "number": 72,
     "type": "term",
     "question": "名词解释：URL",
     "options": [],
@@ -864,10 +864,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q075",
+    "id": "Q073",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 75,
+    "number": 73,
     "type": "term",
     "question": "名词解释：SMTP协议",
     "options": [],
@@ -876,10 +876,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q076",
+    "id": "Q074",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜名词解释",
-    "number": 76,
+    "number": 74,
     "type": "term",
     "question": "名词解释：POP3协议",
     "options": [],
@@ -888,10 +888,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q077",
+    "id": "Q075",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜封装过程",
-    "number": 77,
+    "number": 1,
     "type": "fill",
     "question": "数据封装顺序填空：传输层封装为（1）____；网络层封装为（2）____；数据链路层封装为（3）____；物理层以（4）____形式发送。",
     "options": [],
@@ -900,10 +900,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q078",
+    "id": "Q076",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 78,
+    "number": 1,
     "type": "single",
     "question": "目前遍布于校园的校园网属于__________。",
     "options": [
@@ -929,10 +929,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q079",
+    "id": "Q077",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 79,
+    "number": 2,
     "type": "single",
     "question": "Internet 最早起源于__________。",
     "options": [
@@ -958,10 +958,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q080",
+    "id": "Q078",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 80,
+    "number": 3,
     "type": "single",
     "question": "下面哪种拓扑技术可以使用集线器作为连接器？",
     "options": [
@@ -987,10 +987,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q081",
+    "id": "Q079",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 81,
+    "number": 4,
     "type": "single",
     "question": "局域网与广域网的互联通常通过__________实现。",
     "options": [
@@ -1016,10 +1016,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q082",
+    "id": "Q080",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 82,
+    "number": 5,
     "type": "single",
     "question": "ARPAnet 属于__________网络。",
     "options": [
@@ -1045,10 +1045,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q083",
+    "id": "Q081",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 83,
+    "number": 6,
     "type": "single",
     "question": "把地理上分散的计算机连接起来，实现通信和资源共享的系统属于__________。",
     "options": [
@@ -1074,10 +1074,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q084",
+    "id": "Q082",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 84,
+    "number": 7,
     "type": "single",
     "question": "网络 A 的主机向网络 B 的主机发送报文时，路由器需要检查__________地址。",
     "options": [
@@ -1103,10 +1103,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q085",
+    "id": "Q083",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 85,
+    "number": 8,
     "type": "single",
     "question": "OSI 模型中，第 N 层与第 N+1 层的关系是__________。",
     "options": [
@@ -1132,10 +1132,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q086",
+    "id": "Q084",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 86,
+    "number": 9,
     "type": "single",
     "question": "路由选择功能位于 OSI 模型的__________。",
     "options": [
@@ -1161,10 +1161,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q087",
+    "id": "Q085",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 87,
+    "number": 10,
     "type": "single",
     "question": "下面哪一组是 TCP/IP 的应用层协议？",
     "options": [
@@ -1190,10 +1190,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q088",
+    "id": "Q086",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 88,
+    "number": 11,
     "type": "single",
     "question": "在 TCP/IP 参考模型中，TCP 工作在__________。",
     "options": [
@@ -1219,10 +1219,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q089",
+    "id": "Q087",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 89,
+    "number": 12,
     "type": "single",
     "question": "属于 TCP/IP 协议族中网络层协议的是__________。",
     "options": [
@@ -1248,10 +1248,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q090",
+    "id": "Q088",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 90,
+    "number": 13,
     "type": "single",
     "question": "OSI 模型中，对等层相互交换信息的实体称为__________。",
     "options": [
@@ -1277,10 +1277,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q091",
+    "id": "Q089",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 91,
+    "number": 14,
     "type": "single",
     "question": "协议是__________之间进行通信的规则或约定。",
     "options": [
@@ -1306,10 +1306,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q092",
+    "id": "Q090",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 92,
+    "number": 15,
     "type": "single",
     "question": "以下哪一项不属于计算机网络的主要特征？",
     "options": [
@@ -1335,10 +1335,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q093",
+    "id": "Q091",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 93,
+    "number": 16,
     "type": "single",
     "question": "以下哪一项不属于移动互联网的实现基础？",
     "options": [
@@ -1364,10 +1364,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q094",
+    "id": "Q092",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 94,
+    "number": 17,
     "type": "single",
     "question": "关于计算机网络，以下哪项描述错误？",
     "options": [
@@ -1393,10 +1393,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q095",
+    "id": "Q093",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 95,
+    "number": 18,
     "type": "single",
     "question": "对于分层结构中的 n 层和 n+1 层，以下哪项描述错误？",
     "options": [
@@ -1422,10 +1422,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q096",
+    "id": "Q094",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 96,
+    "number": 19,
     "type": "single",
     "question": "以下哪一项关于 OSI 参考模型的描述不正确？",
     "options": [
@@ -1451,10 +1451,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q097",
+    "id": "Q095",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 97,
+    "number": 20,
     "type": "single",
     "question": "OSI 模型中，同一结点内相邻层之间通过__________实现通信。",
     "options": [
@@ -1480,10 +1480,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q098",
+    "id": "Q096",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 98,
+    "number": 21,
     "type": "single",
     "question": "关于第 2 层设备，以下哪项描述错误？",
     "options": [
@@ -1509,10 +1509,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q099",
+    "id": "Q097",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 99,
+    "number": 22,
     "type": "single",
     "question": "TCP/IP 体系结构中网际层提供的是哪种服务？",
     "options": [
@@ -1538,10 +1538,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q100",
+    "id": "Q098",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 100,
+    "number": 23,
     "type": "single",
     "question": "以下哪项关于 TCP/IP 传输层的描述错误？",
     "options": [
@@ -1567,10 +1567,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q101",
+    "id": "Q099",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 101,
+    "number": 24,
     "type": "single",
     "question": "以下哪一项不属于协议三要素？",
     "options": [
@@ -1596,10 +1596,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q102",
+    "id": "Q100",
     "chapter": "第2章｜物理层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 102,
+    "number": 25,
     "type": "single",
     "question": "常用传输介质中，带宽最宽、衰减最小、抗干扰最强的是？",
     "options": [
@@ -1625,10 +1625,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q103",
+    "id": "Q101",
     "chapter": "第2章｜物理层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 103,
+    "number": 26,
     "type": "single",
     "question": "电缆中采用屏蔽的主要好处是？",
     "options": [
@@ -1654,10 +1654,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q104",
+    "id": "Q102",
     "chapter": "第2章｜物理层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 104,
+    "number": 27,
     "type": "single",
     "question": "关于卫星通信，哪项错误？",
     "options": [
@@ -1683,10 +1683,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q105",
+    "id": "Q103",
     "chapter": "第2章｜物理层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 105,
+    "number": 28,
     "type": "single",
     "question": "调制解调技术主要用于哪种通信？",
     "options": [
@@ -1712,10 +1712,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q106",
+    "id": "Q104",
     "chapter": "第2章｜物理层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 106,
+    "number": 29,
     "type": "single",
     "question": "同一时刻通信双方可以同时发送数据的是？",
     "options": [
@@ -1741,10 +1741,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q107",
+    "id": "Q105",
     "chapter": "第2章｜物理层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 107,
+    "number": 30,
     "type": "single",
     "question": "不受电磁干扰和噪声影响的传输介质是？",
     "options": [
@@ -1770,10 +1770,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q108",
+    "id": "Q106",
     "chapter": "第2章｜物理层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 108,
+    "number": 31,
     "type": "single",
     "question": "通信信道两端可同时收发的通信方式是？",
     "options": [
@@ -1799,10 +1799,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q109",
+    "id": "Q107",
     "chapter": "第2章｜物理层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 109,
+    "number": 32,
     "type": "single",
     "question": "下面宽带接入方式中，传输速率最快的是？",
     "options": [
@@ -1828,10 +1828,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q110",
+    "id": "Q108",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 110,
+    "number": 33,
     "type": "single",
     "question": "以太网 CRC 的特征最好描述为？",
     "options": [
@@ -1857,10 +1857,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q111",
+    "id": "Q109",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 111,
+    "number": 34,
     "type": "single",
     "question": "PPP 协议属于哪一层？",
     "options": [
@@ -1886,10 +1886,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q112",
+    "id": "Q110",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 112,
+    "number": 35,
     "type": "single",
     "question": "下列不属于数据链路层功能的是？",
     "options": [
@@ -1915,10 +1915,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q113",
+    "id": "Q111",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 113,
+    "number": 36,
     "type": "single",
     "question": "流量控制实际上是对谁的控制？",
     "options": [
@@ -1944,10 +1944,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q114",
+    "id": "Q112",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 114,
+    "number": 37,
     "type": "single",
     "question": "一座大楼内的计算机网络属于？",
     "options": [
@@ -1973,10 +1973,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q115",
+    "id": "Q113",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 115,
+    "number": 38,
     "type": "single",
     "question": "大量广播信息为什么会降低网络性能？",
     "options": [
@@ -2002,10 +2002,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q116",
+    "id": "Q114",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 116,
+    "number": 39,
     "type": "single",
     "question": "24 端口集线器的冲突域和广播域个数分别是？",
     "options": [
@@ -2031,10 +2031,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q117",
+    "id": "Q115",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 117,
+    "number": 40,
     "type": "single",
     "question": "48 端口交换机的冲突域和广播域个数分别是？",
     "options": [
@@ -2060,10 +2060,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q118",
+    "id": "Q116",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 118,
+    "number": 41,
     "type": "single",
     "question": "哪个 Ethernet 物理地址是正确的？",
     "options": [
@@ -2089,10 +2089,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q119",
+    "id": "Q117",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 119,
+    "number": 42,
     "type": "single",
     "question": "交换式局域网的核心设备是？",
     "options": [
@@ -2118,10 +2118,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q120",
+    "id": "Q118",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 120,
+    "number": 43,
     "type": "single",
     "question": "100Mb/s 全双工端口实际传输带宽为？",
     "options": [
@@ -2147,10 +2147,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q121",
+    "id": "Q119",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 121,
+    "number": 44,
     "type": "single",
     "question": "10Base-T Ethernet 中说法不正确的是？",
     "options": [
@@ -2176,10 +2176,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q122",
+    "id": "Q120",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 122,
+    "number": 45,
     "type": "single",
     "question": "使用集线器的 10Base-T 局域网拓扑是？",
     "options": [
@@ -2205,10 +2205,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q123",
+    "id": "Q121",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 123,
+    "number": 46,
     "type": "single",
     "question": "10/100Mb/s 网卡共存采用的技术是？",
     "options": [
@@ -2234,10 +2234,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q124",
+    "id": "Q122",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 124,
+    "number": 47,
     "type": "single",
     "question": "使用网桥分割网络不能带来的好处是？",
     "options": [
@@ -2263,10 +2263,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q125",
+    "id": "Q123",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 125,
+    "number": 48,
     "type": "single",
     "question": "以太网中一个帧从开始发送到完全到达另一站点总时间等于？",
     "options": [
@@ -2292,10 +2292,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q126",
+    "id": "Q124",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 126,
+    "number": 49,
     "type": "single",
     "question": "完整接收帧并检错后再转发的交换方式是？",
     "options": [
@@ -2321,10 +2321,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q127",
+    "id": "Q125",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 127,
+    "number": 50,
     "type": "single",
     "question": "关于 CSMA/CD 的说法正确的是？",
     "options": [
@@ -2350,10 +2350,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q128",
+    "id": "Q126",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 128,
+    "number": 51,
     "type": "single",
     "question": "交换机收到目标 MAC 表中没有的帧，会怎样？",
     "options": [
@@ -2379,10 +2379,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q129",
+    "id": "Q127",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 129,
+    "number": 52,
     "type": "single",
     "question": "无线局域网广泛需求的重要因素是具有？",
     "options": [
@@ -2408,10 +2408,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q130",
+    "id": "Q128",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 130,
+    "number": 53,
     "type": "single",
     "question": "CSMA/CD 算法主要功能是？",
     "options": [
@@ -2437,10 +2437,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q131",
+    "id": "Q129",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 131,
+    "number": 54,
     "type": "single",
     "question": "网卡完成哪一层功能？",
     "options": [
@@ -2466,10 +2466,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q132",
+    "id": "Q130",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 132,
+    "number": 55,
     "type": "single",
     "question": "100BASE-TX 使用的传输介质是？",
     "options": [
@@ -2495,10 +2495,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q133",
+    "id": "Q131",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 133,
+    "number": 56,
     "type": "single",
     "question": "下列关于集线器的描述错误的是？",
     "options": [
@@ -2524,10 +2524,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q134",
+    "id": "Q132",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 134,
+    "number": 57,
     "type": "single",
     "question": "网桥转发数据的依据是？",
     "options": [
@@ -2553,10 +2553,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q135",
+    "id": "Q133",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 135,
+    "number": 58,
     "type": "single",
     "question": "关于 ARP 表，正确的是？",
     "options": [
@@ -2582,10 +2582,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q136",
+    "id": "Q134",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 136,
+    "number": 59,
     "type": "single",
     "question": "IP 地址由多少比特组成？",
     "options": [
@@ -2611,10 +2611,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q137",
+    "id": "Q135",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 137,
+    "number": 60,
     "type": "single",
     "question": "下面属于 C 类地址的是？",
     "options": [
@@ -2640,10 +2640,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q138",
+    "id": "Q136",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 138,
+    "number": 61,
     "type": "single",
     "question": "ARP 协议主要功能是？",
     "options": [
@@ -2669,10 +2669,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q139",
+    "id": "Q137",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 139,
+    "number": 62,
     "type": "single",
     "question": "可连接 10 个主机的最合适子网掩码是？",
     "options": [
@@ -2698,10 +2698,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q140",
+    "id": "Q138",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 140,
+    "number": 63,
     "type": "single",
     "question": "关于 IP 提供的服务，正确的是？",
     "options": [
@@ -2727,10 +2727,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q141",
+    "id": "Q139",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 141,
+    "number": 64,
     "type": "single",
     "question": "IP 分片后由谁负责重组？",
     "options": [
@@ -2756,10 +2756,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q142",
+    "id": "Q140",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 142,
+    "number": 65,
     "type": "single",
     "question": "路由器路由表通常包含？",
     "options": [
@@ -2785,10 +2785,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q143",
+    "id": "Q141",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 143,
+    "number": 66,
     "type": "single",
     "question": "下面哪个 IP 地址有效？",
     "options": [
@@ -2814,10 +2814,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q144",
+    "id": "Q142",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 144,
+    "number": 67,
     "type": "single",
     "question": "RIP 协议允许的最大有效跳数是？",
     "options": [
@@ -2843,10 +2843,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q145",
+    "id": "Q143",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 145,
+    "number": 68,
     "type": "single",
     "question": "192.3.7.0/24 划分为 255.255.255.248 后，最大子网数和每子网可分配 IP 数是？",
     "options": [
@@ -2872,10 +2872,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q146",
+    "id": "Q144",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 146,
+    "number": 69,
     "type": "single",
     "question": "“物理地址”也可称为？",
     "options": [
@@ -2901,10 +2901,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q147",
+    "id": "Q145",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 147,
+    "number": 70,
     "type": "single",
     "question": "ICMP 协议正确描述是？",
     "options": [
@@ -2930,10 +2930,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q148",
+    "id": "Q146",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 148,
+    "number": 71,
     "type": "single",
     "question": "IP 数据报传输过程中，头部源地址和目的地址如何变化？",
     "options": [
@@ -2959,10 +2959,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q149",
+    "id": "Q147",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 149,
+    "number": 72,
     "type": "single",
     "question": "IP 数据报传输时，源主机和中间路由器通常是否知道完整路径？",
     "options": [
@@ -2988,10 +2988,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q150",
+    "id": "Q148",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 150,
+    "number": 73,
     "type": "single",
     "question": "动态路由与静态路由主要区别是？",
     "options": [
@@ -3017,10 +3017,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q151",
+    "id": "Q149",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 151,
+    "number": 74,
     "type": "single",
     "question": "PING 发出的是哪类报文？",
     "options": [
@@ -3046,10 +3046,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q152",
+    "id": "Q150",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 152,
+    "number": 75,
     "type": "single",
     "question": "用于测试网络是否连通的命令是？",
     "options": [
@@ -3075,10 +3075,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q153",
+    "id": "Q151",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 153,
+    "number": 76,
     "type": "single",
     "question": "IP 地址块 59.67.159.125/11 的子网掩码是？",
     "options": [
@@ -3104,10 +3104,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q154",
+    "id": "Q152",
     "chapter": "第4章｜网络层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 154,
+    "number": 77,
     "type": "single",
     "question": "IPv4 与 IPv6 分别采用多少位表示地址？",
     "options": [
@@ -3133,10 +3133,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q155",
+    "id": "Q153",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 155,
+    "number": 78,
     "type": "single",
     "question": "TCP/IP 传输层主要作用是在源主机与目的主机对等实体之间建立用于会话的？",
     "options": [
@@ -3162,10 +3162,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q156",
+    "id": "Q154",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 156,
+    "number": 79,
     "type": "single",
     "question": "下列协议中属于面向连接的是？",
     "options": [
@@ -3191,10 +3191,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q157",
+    "id": "Q155",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 157,
+    "number": 80,
     "type": "single",
     "question": "关于 TCP 和 UDP 端口，正确的是？",
     "options": [
@@ -3220,10 +3220,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q158",
+    "id": "Q156",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 158,
+    "number": 81,
     "type": "single",
     "question": "描述 TCP 差错控制机制的关键词是？",
     "options": [
@@ -3249,10 +3249,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q159",
+    "id": "Q157",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 159,
+    "number": 82,
     "type": "single",
     "question": "关于 TCP 协议，错误的是？",
     "options": [
@@ -3278,10 +3278,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q160",
+    "id": "Q158",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 160,
+    "number": 83,
     "type": "single",
     "question": "可靠传输中的“可靠”主要指？",
     "options": [
@@ -3307,10 +3307,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q161",
+    "id": "Q159",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 161,
+    "number": 84,
     "type": "single",
     "question": "TCP 连接建立包括几个步骤？",
     "options": [
@@ -3336,10 +3336,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q162",
+    "id": "Q160",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 162,
+    "number": 85,
     "type": "single",
     "question": "TCP 确认号为 1000 表示？",
     "options": [
@@ -3365,10 +3365,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q163",
+    "id": "Q161",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 163,
+    "number": 86,
     "type": "single",
     "question": "传输层把数据交给上层应用程序使用哪种地址形式？",
     "options": [
@@ -3394,10 +3394,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q164",
+    "id": "Q162",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 164,
+    "number": 87,
     "type": "single",
     "question": "计算机网络最本质的活动是不同主机之间的？",
     "options": [
@@ -3423,10 +3423,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q165",
+    "id": "Q163",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 165,
+    "number": 88,
     "type": "single",
     "question": "TCP 是 TCP/IP 中的（1）____协议，使用（2）____次握手，主动方等待（3）____。",
     "options": [
@@ -3452,10 +3452,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q166",
+    "id": "Q164",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 166,
+    "number": 89,
     "type": "single",
     "question": "发送窗口值由 2000 变为 3000，意味着发送端可以？",
     "options": [
@@ -3481,10 +3481,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q167",
+    "id": "Q165",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 167,
+    "number": 90,
     "type": "single",
     "question": "两段有效载荷 300B 和 500B，第一个序号 200，均正确接收后确认号是？",
     "options": [
@@ -3510,10 +3510,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q168",
+    "id": "Q166",
     "chapter": "第5章｜传输层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 168,
+    "number": 91,
     "type": "single",
     "question": "先发序号100、数据100B，再发数据200B，均正确接收后确认号是？",
     "options": [
@@ -3539,10 +3539,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q169",
+    "id": "Q167",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 169,
+    "number": 92,
     "type": "single",
     "question": "SMTP、HTTP 依赖哪种传输层协议？",
     "options": [
@@ -3568,10 +3568,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q170",
+    "id": "Q168",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 170,
+    "number": 93,
     "type": "single",
     "question": "邮件程序从邮件服务器读取邮件可使用？",
     "options": [
@@ -3597,10 +3597,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q171",
+    "id": "Q169",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 171,
+    "number": 94,
     "type": "single",
     "question": "关于 C/S 结构，错误的是？",
     "options": [
@@ -3626,10 +3626,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q172",
+    "id": "Q170",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 172,
+    "number": 95,
     "type": "single",
     "question": "标准 URL 由协议类型、主机名和什么组成？",
     "options": [
@@ -3655,10 +3655,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q173",
+    "id": "Q171",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 173,
+    "number": 96,
     "type": "single",
     "question": "WWW 服务第一步通常是浏览器对服务器进行？",
     "options": [
@@ -3684,10 +3684,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q174",
+    "id": "Q172",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 174,
+    "number": 97,
     "type": "single",
     "question": "DNS 的作用是？",
     "options": [
@@ -3713,10 +3713,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q175",
+    "id": "Q173",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 175,
+    "number": 98,
     "type": "single",
     "question": "浏览器与 Web 服务器之间使用的应用层协议是？",
     "options": [
@@ -3742,10 +3742,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q176",
+    "id": "Q174",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 176,
+    "number": 99,
     "type": "single",
     "question": "以下哪项不是使用域名表示主机的原因？",
     "options": [
@@ -3771,10 +3771,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q177",
+    "id": "Q175",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 177,
+    "number": 100,
     "type": "single",
     "question": "关于分层域名结构，错误的是？",
     "options": [
@@ -3800,10 +3800,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q178",
+    "id": "Q176",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 178,
+    "number": 101,
     "type": "single",
     "question": "下面对应用层协议说法正确的是？",
     "options": [
@@ -3829,10 +3829,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q179",
+    "id": "Q177",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 179,
+    "number": 102,
     "type": "single",
     "question": "下列关于 DHCP 配置，错误的是？",
     "options": [
@@ -3858,10 +3858,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q180",
+    "id": "Q178",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 180,
+    "number": 103,
     "type": "single",
     "question": "主机解析 www.abc.com.cn 时首先访问的域名服务器地址是？",
     "options": [
@@ -3887,10 +3887,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q181",
+    "id": "Q179",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜选择题",
-    "number": 181,
+    "number": 104,
     "type": "single",
     "question": "关于域名解析过程，错误的是？",
     "options": [
@@ -3916,10 +3916,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q182",
+    "id": "Q180",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 182,
+    "number": 1,
     "type": "truefalse",
     "question": "网络体系结构中的分层设计方便保持网络灵活且易于修改。",
     "options": [
@@ -3937,10 +3937,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q183",
+    "id": "Q181",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 183,
+    "number": 2,
     "type": "truefalse",
     "question": "传输层协议是端到端协议。",
     "options": [
@@ -3958,10 +3958,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q184",
+    "id": "Q182",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 184,
+    "number": 3,
     "type": "truefalse",
     "question": "TCP/IP 体系结构网际层和网络接口层定义了 IP 分组跨多个传输网络实现端到端传输的过程。",
     "options": [
@@ -3979,10 +3979,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q185",
+    "id": "Q183",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 185,
+    "number": 4,
     "type": "truefalse",
     "question": "UDP 协议提供面向连接传输服务。",
     "options": [
@@ -4000,10 +4000,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q186",
+    "id": "Q184",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 186,
+    "number": 5,
     "type": "truefalse",
     "question": "IP 协议提供的是无连接可靠的数据报服务。",
     "options": [
@@ -4021,10 +4021,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q187",
+    "id": "Q185",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 187,
+    "number": 6,
     "type": "truefalse",
     "question": "同一传输网络且网络地址相同的两个端点通信需要经过路由器。",
     "options": [
@@ -4042,10 +4042,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q188",
+    "id": "Q186",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 188,
+    "number": 7,
     "type": "truefalse",
     "question": "TCP 协议因为面向字节流，所以实现过程简单。",
     "options": [
@@ -4063,10 +4063,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q189",
+    "id": "Q187",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 189,
+    "number": 8,
     "type": "truefalse",
     "question": "路由项中指定下一跳地址，表示只有下一跳地址指定的路由器才能继续转发该 IP 分组。",
     "options": [
@@ -4084,10 +4084,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q190",
+    "id": "Q188",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 190,
+    "number": 9,
     "type": "truefalse",
     "question": "主机可以通过 DHCP 自动配置网络信息。",
     "options": [
@@ -4105,10 +4105,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q191",
+    "id": "Q189",
     "chapter": "第6章｜应用层",
     "originalChapter": "计算机网络期末复习习题集｜判断题",
-    "number": 191,
+    "number": 10,
     "type": "truefalse",
     "question": "DNS 采用分层域名结构，由单一组织管理和实施。",
     "options": [
@@ -4126,10 +4126,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q192",
+    "id": "Q190",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜交换机转发表",
-    "number": 192,
+    "number": 1,
     "type": "essay",
     "question": "交换机初始转发表为空，依次发生 A→B、G→H、B→A、H→G、E→H。填写交换机1、交换机2转发表变化。",
     "options": [],
@@ -4140,10 +4140,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q193",
+    "id": "Q191",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜CIDR地址计算",
-    "number": 193,
+    "number": 1,
     "type": "fill",
     "question": "计算 IP 地址 191.173.21.9，子网掩码 255.240.0.0 的网络地址、第一个可用地址、最后一个可用地址、直接广播地址。",
     "options": [],
@@ -4152,10 +4152,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q194",
+    "id": "Q192",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜子网划分",
-    "number": 194,
+    "number": 1,
     "type": "fill",
     "question": "地址块 136.23.12.64/26 需要划分为 4 个一样大的子网。求新前缀、每子网地址数、各地址块和可用主机范围。",
     "options": [],
@@ -4164,10 +4164,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q195",
+    "id": "Q193",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜DNS抓包分析",
-    "number": 195,
+    "number": 1,
     "type": "essay",
     "question": "Packet Tracer 报文分析：PC 端捕获一个 DNS 报文，回答传输层协议、端口号、PC/服务器 IP、MAC 地址和应用层协议作用。",
     "options": [],
@@ -4180,10 +4180,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q196",
+    "id": "Q194",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜HTTP抓包分析",
-    "number": 196,
+    "number": 1,
     "type": "essay",
     "question": "PC 浏览器访问 Web1，捕获 HTTP 报文。填写 PC/服务器 IP、应用层协议、主机域名、传输层协议、端口号、MAC 地址和 URL。",
     "options": [],
@@ -4194,10 +4194,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q197",
+    "id": "Q195",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜ICMP跨网传输",
-    "number": 197,
+    "number": 1,
     "type": "essay",
     "question": "路由器连接 LAN1 和 LAN2，终端 A 向终端 E 发送 ICMP 报文。描述报文传递过程。",
     "options": [],
@@ -4209,10 +4209,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q198",
+    "id": "Q196",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜RIP路由表更新",
-    "number": 198,
+    "number": 1,
     "type": "fill",
     "question": "R1、R2 是相邻 RIP 路由器，R1 根据 R2 发送的路由消息更新路由表，填写 R1 新路由表。",
     "options": [],
@@ -4223,10 +4223,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q199",
+    "id": "Q197",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜DHCP过程",
-    "number": 199,
+    "number": 1,
     "type": "fill",
     "question": "终端 A 通过 DHCP 获取网络配置信息，填写①～⑧个 IP 分组的源 IP 和目的 IP。",
     "options": [],
@@ -4237,10 +4237,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q200",
+    "id": "Q198",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜TCP拥塞控制",
-    "number": 200,
+    "number": 1,
     "type": "essay",
     "question": "建立 TCP 连接后进入慢启动。第4轮收到3个重复 ACK，第17轮超时，第25轮收到3个重复 ACK。求 a～h 等拥塞窗口/阈值。",
     "options": [],
@@ -4251,10 +4251,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q201",
+    "id": "Q199",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜浏览器访问Web流程",
-    "number": 201,
+    "number": 1,
     "type": "essay",
     "question": "浏览器访问 Web 服务器的完整过程图解题：说明 DNS、TCP、HTTP 在访问网页时的先后关系。",
     "options": [],
@@ -4266,10 +4266,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q202",
+    "id": "Q200",
     "chapter": "第7章｜综合应用大题",
     "originalChapter": "应用填空题new｜协议分层图",
-    "number": 202,
+    "number": 1,
     "type": "essay",
     "question": "根据协议分层图，说明常见协议分别属于哪一层。",
     "options": [],
@@ -4280,10 +4280,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q204",
+    "id": "Q201",
     "chapter": "第5章｜传输层",
     "originalChapter": "作业2026｜作业10（传输层概念）.doc｜一、单选题（共5题，13分）",
-    "number": 204,
+    "number": 1,
     "type": "single",
     "question": "TCP/IP的传输层协议使用哪一种地址形式将数据传送给上层应用进程？",
     "options": [
@@ -4309,10 +4309,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q207",
+    "id": "Q202",
     "chapter": "第5章｜传输层",
     "originalChapter": "作业2026｜作业10（传输层概念）.doc｜二、判断题（共5题，5分）",
-    "number": 207,
+    "number": 1,
     "type": "truefalse",
     "question": "TCP/IP体系结构中只有传输层有差错控制机制。",
     "options": [
@@ -4330,10 +4330,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q208",
+    "id": "Q203",
     "chapter": "第5章｜传输层",
     "originalChapter": "作业2026｜作业10（传输层概念）.doc｜二、判断题（共5题，5分）",
-    "number": 208,
+    "number": 2,
     "type": "truefalse",
     "question": "传输层与传输网络有关 。",
     "options": [
@@ -4351,10 +4351,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q209",
+    "id": "Q204",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业12-应用层及dhcp.doc｜一、单选题（共10题，10分）",
-    "number": 209,
+    "number": 1,
     "type": "single",
     "question": "用户提出服务请求，网络将用户请求传送到服务器；服务器执行用户请求，完成所要求的操作并将结果送回用户，这种工作方式称为",
     "options": [
@@ -4380,10 +4380,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q210",
+    "id": "Q205",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业12-应用层及dhcp.doc｜一、单选题（共10题，10分）",
-    "number": 210,
+    "number": 2,
     "type": "single",
     "question": "以下有关P2P方式的叙述中，错误的是",
     "options": [
@@ -4409,10 +4409,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q211",
+    "id": "Q206",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业12-应用层及dhcp.doc｜一、单选题（共10题，10分）",
-    "number": 211,
+    "number": 3,
     "type": "single",
     "question": "关于DHCP客户主机的功能，以下哪一项描述是错误的( )",
     "options": [
@@ -4438,10 +4438,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q212",
+    "id": "Q207",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业12-应用层及dhcp.doc｜一、单选题（共10题，10分）",
-    "number": 212,
+    "number": 4,
     "type": "single",
     "question": "关于DHCP服务器的功能，以下哪一项描述是错误的( )",
     "options": [
@@ -4467,10 +4467,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q213",
+    "id": "Q208",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业12-应用层及dhcp.doc｜一、单选题（共10题，10分）",
-    "number": 213,
+    "number": 5,
     "type": "single",
     "question": "以下关于DHCP客户机和DHCP服务器交互过程的描述中，错误的是（）。",
     "options": [
@@ -4496,10 +4496,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q214",
+    "id": "Q209",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业12-应用层及dhcp.doc｜一、单选题（共10题，10分）",
-    "number": 214,
+    "number": 6,
     "type": "single",
     "question": "关于DHCP中继，以下哪一项描述是错误的( )",
     "options": [
@@ -4525,10 +4525,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q215",
+    "id": "Q210",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业12-应用层及dhcp.doc｜一、单选题（共10题，10分）",
-    "number": 215,
+    "number": 7,
     "type": "single",
     "question": "在已经获取IP地址的DHCP客户端上执行命令“ipconfig /release”后，该DHCP客户端上的IP地址和子网掩码分别是( )",
     "options": [
@@ -4554,10 +4554,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q216",
+    "id": "Q211",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业13（dns和http）.doc｜一、单选题（共11题，11分）",
-    "number": 216,
+    "number": 1,
     "type": "single",
     "question": "某用户在WWW浏览器的URL栏内输入http://www.tsinghua.edu.cn/chn/yxsz/index.htm，其中www.tsinghua.edu.cn代表（ ）",
     "options": [
@@ -4583,10 +4583,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q219",
+    "id": "Q212",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业13（dns和http）.doc｜一、单选题（共11题，11分）",
-    "number": 219,
+    "number": 2,
     "type": "single",
     "question": "‏当客户端请求域名解析时，如果本地域名服务器不能完成解析，就把请求发送给其他域名服务器，当某个域名服务器完成解析后，将结果按原路返回给本地域名服务器，本地域名服务器再告诉客户端，这种域名查询方式称为",
     "options": [
@@ -4612,10 +4612,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q220",
+    "id": "Q213",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业13（dns和http）.doc｜一、单选题（共11题，11分）",
-    "number": 220,
+    "number": 3,
     "type": "single",
     "question": "从协议分析的角度，WWW服务的第一步操作是浏览器对WWW服务器的( )。",
     "options": [
@@ -4641,10 +4641,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q222",
+    "id": "Q214",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业13（dns和http）.doc｜一、单选题（共11题，11分）",
-    "number": 222,
+    "number": 4,
     "type": "single",
     "question": "某工作站无法访问域名为www.test.com的服务器，此时使用ping命令按照该服务器的IP地址进行测试，发现响应正常。但是按照服务器域名进行测试，发现超时。此时可能出现的问题是____。",
     "options": [
@@ -4670,10 +4670,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q223",
+    "id": "Q215",
     "chapter": "第6章｜应用层",
     "originalChapter": "作业2026｜作业13（dns和http）.doc｜一、单选题（共11题，11分）",
-    "number": 223,
+    "number": 5,
     "type": "single",
     "question": "一台主机希望解析域名www.abc.com.cn，如果该主机配置的域名服务器地址为202.120.66.88，根域名服务器地址为10.11.12.13，www.abc.com.cn的授权域名服务器地址为202.113.33.77，该主机解析该域名时首先访问的域名服务器地址为( )。",
     "options": [
@@ -4699,10 +4699,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q224",
+    "id": "Q216",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜一、单选题（共10题，10分）",
-    "number": 224,
+    "number": 1,
     "type": "single",
     "question": "以下哪一项不属于物联网的实现基础?",
     "options": [
@@ -4728,10 +4728,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q225",
+    "id": "Q217",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜一、单选题（共10题，10分）",
-    "number": 225,
+    "number": 2,
     "type": "single",
     "question": "以下哪一项不是解决网络安全问题的因素?",
     "options": [
@@ -4757,10 +4757,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q226",
+    "id": "Q218",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜一、单选题（共10题，10分）",
-    "number": 226,
+    "number": 3,
     "type": "single",
     "question": "以下哪一项不是电路交换的特征?",
     "options": [
@@ -4786,10 +4786,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q227",
+    "id": "Q219",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜一、单选题（共10题，10分）",
-    "number": 227,
+    "number": 4,
     "type": "single",
     "question": "以下哪一项不是分组交换的特征。",
     "options": [
@@ -4815,10 +4815,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q228",
+    "id": "Q220",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜一、单选题（共10题，10分）",
-    "number": 228,
+    "number": 5,
     "type": "single",
     "question": "以下哪一项不是有关数据报交换方式的正确描述?",
     "options": [
@@ -4844,10 +4844,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q229",
+    "id": "Q221",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜二、判断题（共5题，5分）",
-    "number": 229,
+    "number": 1,
     "type": "truefalse",
     "question": "计算机网络是互相连接的自治系统集合",
     "options": [
@@ -4865,10 +4865,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q230",
+    "id": "Q222",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜二、判断题（共5题，5分）",
-    "number": 230,
+    "number": 2,
     "type": "truefalse",
     "question": "电话网络和计算机网络有着根本上的区别。",
     "options": [
@@ -4886,10 +4886,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q231",
+    "id": "Q223",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜二、判断题（共5题，5分）",
-    "number": 231,
+    "number": 3,
     "type": "truefalse",
     "question": "路由器是一种分组交换设备。",
     "options": [
@@ -4907,10 +4907,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q232",
+    "id": "Q224",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜二、判断题（共5题，5分）",
-    "number": 232,
+    "number": 4,
     "type": "truefalse",
     "question": "广域网是公共传输网络",
     "options": [
@@ -4928,10 +4928,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q233",
+    "id": "Q225",
     "chapter": "第1章｜计算机网络概述",
     "originalChapter": "作业2026｜作业1（概论1）.doc｜二、判断题（共5题，5分）",
-    "number": 233,
+    "number": 5,
     "type": "truefalse",
     "question": "局域网传输速率远大于广域网",
     "options": [
@@ -4949,10 +4949,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q235",
+    "id": "Q226",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业5：网桥及VLAN.doc｜一、单选题（共10题，10分）",
-    "number": 235,
+    "number": 1,
     "type": "single",
     "question": "二层以太网交换机在MAC 地址表中，查找与帧目的MAC 地址匹配的表项，从而将帧从相应接口转发出去；如果查找失败，交换机将（______）。",
     "options": [
@@ -4978,10 +4978,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q236",
+    "id": "Q227",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业5：网桥及VLAN.doc｜一、单选题（共10题，10分）",
-    "number": 236,
+    "number": 2,
     "type": "single",
     "question": "交换机上连接三台终端，分别是终端A、终端B和终端C，假定交换机初始转发表为空，如果终端A向终端C发送一帧MAC帧，终端C向终端A回送一帧MAC帧，则分别接收到这两帧MAC帧的终端是。",
     "options": [
@@ -5007,10 +5007,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q239",
+    "id": "Q228",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业5：网桥及VLAN.doc｜一、单选题（共10题，10分）",
-    "number": 239,
+    "number": 3,
     "type": "single",
     "question": "关于VLAN的作用，以下哪一项描述是正确的？",
     "options": [
@@ -5036,10 +5036,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q240",
+    "id": "Q229",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业5：网桥及VLAN.doc｜一、单选题（共10题，10分）",
-    "number": 240,
+    "number": 4,
     "type": "single",
     "question": "如果一个属于VLAN A的终端发送一个广播帧，以下哪一项描述是正确的？",
     "options": [
@@ -5065,10 +5065,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q241",
+    "id": "Q230",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业6（无线局域网）.doc｜一、单选题（共8题，8分）",
-    "number": 241,
+    "number": 1,
     "type": "single",
     "question": "以下关于802. 11标准的描述中，错误的是（ ）。",
     "options": [
@@ -5094,10 +5094,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q242",
+    "id": "Q231",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业6（无线局域网）.doc｜一、单选题（共8题，8分）",
-    "number": 242,
+    "number": 2,
     "type": "single",
     "question": "以下哪一项是可以在链路层实现以太网和无线局域网互连的关键因素？",
     "options": [
@@ -5123,10 +5123,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q243",
+    "id": "Q232",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业6（无线局域网）.doc｜一、单选题（共8题，8分）",
-    "number": 243,
+    "number": 3,
     "type": "single",
     "question": "以下哪一种设备一般不支持无线局域网？",
     "options": [
@@ -5152,10 +5152,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q245",
+    "id": "Q233",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业6（无线局域网）.doc｜二、判断题（共5题，5分）",
-    "number": 245,
+    "number": 1,
     "type": "truefalse",
     "question": "MAC地址是48位二进制数",
     "options": [
@@ -5173,10 +5173,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q246",
+    "id": "Q234",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业6（无线局域网）.doc｜二、判断题（共5题，5分）",
-    "number": 246,
+    "number": 2,
     "type": "truefalse",
     "question": "连接到集线器上的多个结点不能同时接收MAC帧",
     "options": [
@@ -5194,10 +5194,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q247",
+    "id": "Q235",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业6（无线局域网）.doc｜二、判断题（共5题，5分）",
-    "number": 247,
+    "number": 3,
     "type": "truefalse",
     "question": "交换机是链路层设备，集线器是物理层设备",
     "options": [
@@ -5215,10 +5215,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q248",
+    "id": "Q236",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业6（无线局域网）.doc｜二、判断题（共5题，5分）",
-    "number": 248,
+    "number": 4,
     "type": "truefalse",
     "question": "VLAN与独立物理以太网的主要区别是VLAN包含的终端可以是某个大型物理以太网终端的任意子集，且子集是可以动态分配的。",
     "options": [
@@ -5236,10 +5236,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q249",
+    "id": "Q237",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业7：IP分类编址及子网划分.doc｜一、单选题（共6题，6分）",
-    "number": 249,
+    "number": 1,
     "type": "single",
     "question": "关于IP，以下哪一项描述是错误的( )",
     "options": [
@@ -5265,10 +5265,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q250",
+    "id": "Q238",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业7：IP分类编址及子网划分.doc｜一、单选题（共6题，6分）",
-    "number": 250,
+    "number": 2,
     "type": "single",
     "question": "假定某个 IP 地址的 32 位二进制数是 11010111 00111100 00011111 11000000, 它的点分十进制表示是( )",
     "options": [
@@ -5294,10 +5294,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q252",
+    "id": "Q239",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业7：IP分类编址及子网划分.doc｜一、单选题（共6题，6分）",
-    "number": 252,
+    "number": 3,
     "type": "single",
     "question": "分类编址下，IP地址192.1.1.3属于哪一类IP地址？",
     "options": [
@@ -5323,10 +5323,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q253",
+    "id": "Q240",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业7：IP分类编址及子网划分.doc｜一、单选题（共6题，6分）",
-    "number": 253,
+    "number": 4,
     "type": "single",
     "question": "分类编址下，IP地址192.1.1.3对应的网络地址是( )",
     "options": [
@@ -5352,10 +5352,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q255",
+    "id": "Q241",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜一、单选题（共12题，12分）",
-    "number": 255,
+    "number": 1,
     "type": "single",
     "question": "在网络层上实现网络互连的设备是_____。",
     "options": [
@@ -5381,10 +5381,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q256",
+    "id": "Q242",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜一、单选题（共12题，12分）",
-    "number": 256,
+    "number": 2,
     "type": "single",
     "question": "关于路由器，以下哪一项描述是错误的( )。",
     "options": [
@@ -5410,10 +5410,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q257",
+    "id": "Q243",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜一、单选题（共12题，12分）",
-    "number": 257,
+    "number": 3,
     "type": "single",
     "question": "当路由器接收的IP报文的TTL值等于0时，采取的策略是（ ）",
     "options": [
@@ -5439,10 +5439,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q259",
+    "id": "Q244",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜一、单选题（共12题，12分）",
-    "number": 259,
+    "number": 4,
     "type": "single",
     "question": "默认路由项的作用是（）",
     "options": [
@@ -5468,10 +5468,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q261",
+    "id": "Q245",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜一、单选题（共12题，12分）",
-    "number": 261,
+    "number": 5,
     "type": "single",
     "question": "以下关于路由信息协议RIP的描述中，错误的是（）。",
     "options": [
@@ -5497,10 +5497,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q262",
+    "id": "Q246",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜一、单选题（共12题，12分）",
-    "number": 262,
+    "number": 6,
     "type": "single",
     "question": "RIP产生的端到端传输路径是（）。",
     "options": [
@@ -5526,10 +5526,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q263",
+    "id": "Q247",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜一、单选题（共12题，12分）",
-    "number": 263,
+    "number": 7,
     "type": "single",
     "question": "在Internet中，一个路由器的路由表通常包含_________。",
     "options": [
@@ -5555,10 +5555,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q264",
+    "id": "Q248",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜一、单选题（共12题，12分）",
-    "number": 264,
+    "number": 8,
     "type": "single",
     "question": "当IP分组中TTL值减为0时，路由器发出的ICMP报文类型是",
     "options": [
@@ -5584,10 +5584,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q267",
+    "id": "Q249",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜三、判断题（共5题，5分）",
-    "number": 267,
+    "number": 1,
     "type": "truefalse",
     "question": "路由器有着连接不同类型传输网络的接口。",
     "options": [
@@ -5605,10 +5605,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q268",
+    "id": "Q250",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜三、判断题（共5题，5分）",
-    "number": 268,
+    "number": 2,
     "type": "truefalse",
     "question": "路由器可能将IP分组分片",
     "options": [
@@ -5626,10 +5626,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q269",
+    "id": "Q251",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜三、判断题（共5题，5分）",
-    "number": 269,
+    "number": 3,
     "type": "truefalse",
     "question": "关于ARP表，用于在各个子网之间进行路由选择.",
     "options": [
@@ -5647,10 +5647,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q270",
+    "id": "Q252",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业8（IP无分类地址及数据传输.docx｜一、单选题（共10题，10分）",
-    "number": 270,
+    "number": 1,
     "type": "single",
     "question": "在Internet中，IP数据报从源结点到目的结点可能需要经过多个网络和路由器。在整个传输过程中，IP数据报头部中的_________。",
     "options": [
@@ -5676,10 +5676,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q271",
+    "id": "Q253",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业8（IP无分类地址及数据传输.docx｜一、单选题（共10题，10分）",
-    "number": 271,
+    "number": 2,
     "type": "single",
     "question": "IP分组分片的原因是( )。",
     "options": [
@@ -5705,10 +5705,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q272",
+    "id": "Q254",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业8（IP无分类地址及数据传输.docx｜一、单选题（共10题，10分）",
-    "number": 272,
+    "number": 3,
     "type": "single",
     "question": "路由器接收接口的MTU大于该路由器将要发出接口的最大MTU时，采取的策略是（ ）",
     "options": [
@@ -5734,10 +5734,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q273",
+    "id": "Q255",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业8（IP无分类地址及数据传输.docx｜一、单选题（共10题，10分）",
-    "number": 273,
+    "number": 4,
     "type": "single",
     "question": "IP数据报穿越Internet过程中有可能被分片。在IP数据报分片以后，下列哪些设备（或哪个设备）负责IP数据报的重组？",
     "options": [
@@ -5763,10 +5763,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q274",
+    "id": "Q256",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业8（IP无分类地址及数据传输.docx｜一、单选题（共10题，10分）",
-    "number": 274,
+    "number": 5,
     "type": "single",
     "question": "路由器接口0和接口1的IP地址、子网掩码和MAC地址分别是192.1.1.254/24、0000.0c07.ac06和192.1.2.254/24、0000.0c63.6965，如果从接口0接收到目的IP地址为192.1.2.7的IP分组，以下那一项描述是正确的。",
     "options": [
@@ -5792,10 +5792,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q275",
+    "id": "Q257",
     "chapter": "第3章｜数据链路层",
     "originalChapter": "作业2026｜作业8（IP无分类地址及数据传输.docx｜一、单选题（共10题，10分）",
-    "number": 275,
+    "number": 6,
     "type": "single",
     "question": "如下图所示，终端A向终端B发送IP分组，IP分组经过以太网传输时封装成MAC帧，数据报3中的目的IP地址和目的MAC地址是",
     "options": [
@@ -5823,10 +5823,10 @@ window.QUESTION_BANK = [
     ]
   },
   {
-    "id": "Q277",
+    "id": "Q258",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业8（IP无分类地址及数据传输.docx｜一、单选题（共10题，10分）",
-    "number": 277,
+    "number": 7,
     "type": "single",
     "question": "ARP请求报文和响应报文的传输方式分别是（ ）。",
     "options": [
@@ -5852,10 +5852,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q279",
+    "id": "Q259",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业8（IP无分类地址及数据传输.docx｜二、填空题（共1题，5分）",
-    "number": 279,
+    "number": 1,
     "type": "fill",
     "question": "如果CIDR地址块中包括一个IP地址为191.173.21.9/12，计算该地址块的细节并填写下表（备注：答案填写为点分十进制形式）",
     "options": [],
@@ -5864,10 +5864,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q280",
+    "id": "Q260",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业7：IP分类编址及子网划分.doc｜填空题",
-    "number": 280,
+    "number": 1,
     "type": "fill",
     "question": "分类编址下，IP地址 192.1.1.3 对应的网络地址、最小有效主机地址、最大有效主机地址和直接广播地址分别是什么？",
     "options": [],
@@ -5876,10 +5876,10 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q281",
+    "id": "Q261",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业7：IP分类编址及子网划分.doc｜填空题",
-    "number": 281,
+    "number": 2,
     "type": "fill",
     "question": "某单位分配到地址块 212.115.100.0/24，需要划分为 4 个一样大的子网。求子网掩码、每个子网可用地址数、4个子网地址块，以及第1和第4子网的可用地址范围。",
     "options": [],
@@ -5888,15 +5888,2369 @@ window.QUESTION_BANK = [
     "images": []
   },
   {
-    "id": "Q282",
+    "id": "Q262",
     "chapter": "第4章｜网络层",
     "originalChapter": "作业2026｜作业9（路由）.doc｜填空题",
-    "number": 282,
+    "number": 1,
     "type": "fill",
     "question": "R1、R2 是两个采用 RIP 的相邻路由器。R2 向 R1 发送路由消息后，填写更新后的 R1 路由表：10.0.0.0、20.0.0.0、30.0.0.0、40.0.0.0、50.0.0.0 的距离和下一跳。",
     "options": [],
     "answer": "10.0.0.0：距离 0，下一跳 直接；20.0.0.0：距离 4，下一跳 R2；30.0.0.0：距离 4，下一跳 R3；40.0.0.0：距离 3，下一跳 R4；50.0.0.0：距离 2，下一跳 R2",
     "explanation": "RIP 更新的核心是“邻居通告距离 + 1”。如果来自同一下一跳，则按新通告更新；如果来自不同下一跳，则选择距离更小的路径；直连网络距离为 0，下一跳写直接。变体题逐行比较旧表和邻居通告即可。",
+    "images": []
+  },
+  {
+    "id": "Q263",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业1（概论1）.doc",
+    "number": 1,
+    "type": "single",
+    "question": "以下哪一项不属于计算机网络的主要特征。",
+    "options": [
+      {
+        "key": "A",
+        "text": "共享资源"
+      },
+      {
+        "key": "B",
+        "text": "自治系统"
+      },
+      {
+        "key": "C",
+        "text": "遵守统一的通信标准"
+      },
+      {
+        "key": "D",
+        "text": "交换机和路由器"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题正确答案是 D，对应选项“交换机和路由器”。",
+    "images": []
+  },
+  {
+    "id": "Q264",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业1（概论1）.doc",
+    "number": 2,
+    "type": "single",
+    "question": "以下哪一项不属于移动互联网的实现基础。",
+    "options": [
+      {
+        "key": "A",
+        "text": "交换机和路由器"
+      },
+      {
+        "key": "B",
+        "text": "智能手机"
+      },
+      {
+        "key": "C",
+        "text": "APP"
+      },
+      {
+        "key": "D",
+        "text": "无线局域网"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题正确答案是 A，对应选项“交换机和路由器”。",
+    "images": []
+  },
+  {
+    "id": "Q265",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 1,
+    "type": "single",
+    "question": "以下哪一项关于计算机网络体系结构的描述是错误的。",
+    "options": [
+      {
+        "key": "A",
+        "text": "网络体系结构是分层结构和各层协议的集合"
+      },
+      {
+        "key": "B",
+        "text": "网络体系结构精确定义了每一层功能"
+      },
+      {
+        "key": "C",
+        "text": "网络体系结构是抽象的，协议实现技术是具体的"
+      },
+      {
+        "key": "D",
+        "text": "OSI体系结构是唯一的计算机网络体系结构"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题正确答案是 D，对应选项“OSI体系结构是唯一的计算机网络体系结构”。",
+    "images": []
+  },
+  {
+    "id": "Q266",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 2,
+    "type": "single",
+    "question": "以下哪一项不是分层结构的好处。",
+    "options": [
+      {
+        "key": "A",
+        "text": "提高系统整体运行效率"
+      },
+      {
+        "key": "B",
+        "text": "各层之间相对独立"
+      },
+      {
+        "key": "C",
+        "text": "可以屏蔽低层差异"
+      },
+      {
+        "key": "D",
+        "text": "每一层功能容易实现和标准化"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题正确答案是 A，对应选项“提高系统整体运行效率”。",
+    "images": []
+  },
+  {
+    "id": "Q267",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 3,
+    "type": "single",
+    "question": "以下哪一项不属于协议的三个要素。",
+    "options": [
+      {
+        "key": "A",
+        "text": "实体"
+      },
+      {
+        "key": "B",
+        "text": "时序"
+      },
+      {
+        "key": "C",
+        "text": "语法"
+      },
+      {
+        "key": "D",
+        "text": "语义"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题正确答案是 A，对应选项“实体”。",
+    "images": []
+  },
+  {
+    "id": "Q268",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 4,
+    "type": "single",
+    "question": "如果分层结构的最底层为1层，对于分层结构中的n层和n+1层，以下哪项描述是错误的。",
+    "options": [
+      {
+        "key": "A",
+        "text": "n层功能与n+1层功能之间没有关系"
+      },
+      {
+        "key": "B",
+        "text": "n层需要在n+1层提供的数据上增加首部"
+      },
+      {
+        "key": "C",
+        "text": "n层为n+1层提供服务"
+      },
+      {
+        "key": "D",
+        "text": "n层功能实现过程对n+1层是透明的"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题正确答案是 A，对应选项“n层功能与n+1层功能之间没有关系”。",
+    "images": []
+  },
+  {
+    "id": "Q269",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 5,
+    "type": "single",
+    "question": "OSI 参考模型物理层的主要功能是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "物理地址定义"
+      },
+      {
+        "key": "B",
+        "text": "建立端到端连接"
+      },
+      {
+        "key": "C",
+        "text": "在终端设备间传送比特流，定义了电压、接口、电缆标准和传输距离等"
+      },
+      {
+        "key": "D",
+        "text": "将数据从某一端主机传送到另一端主机"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题正确答案是 C，对应选项“在终端设备间传送比特流，定义了电压、接口、电缆标准和传输距离等”。",
+    "images": []
+  },
+  {
+    "id": "Q270",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 6,
+    "type": "single",
+    "question": "路由选择功能是在OSI模型的__________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "物理层"
+      },
+      {
+        "key": "B",
+        "text": "数据链路层"
+      },
+      {
+        "key": "C",
+        "text": "网络层"
+      },
+      {
+        "key": "D",
+        "text": "传输层"
+      }
+    ],
+    "answer": "C",
+    "explanation": "路由题先看目的网络和最长前缀匹配；RIP 用跳数作为距离，最大有效跳数是 15，16 表示不可达。路由表通常记录目的网络、距离/度量和下一跳。 本题正确答案是 C，对应选项“网络层”。",
+    "images": []
+  },
+  {
+    "id": "Q271",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 7,
+    "type": "single",
+    "question": "TCP/IP体系结构中网际层提供的是以下哪一种服务。",
+    "options": [
+      {
+        "key": "A",
+        "text": "无连接可靠数据报服务"
+      },
+      {
+        "key": "B",
+        "text": "有连接可靠虚电路服务"
+      },
+      {
+        "key": "C",
+        "text": "无连接不可靠数据报服务"
+      },
+      {
+        "key": "D",
+        "text": "有连接不可靠虚电路服务"
+      }
+    ],
+    "answer": "C",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 C，对应选项“无连接不可靠数据报服务”。",
+    "images": []
+  },
+  {
+    "id": "Q272",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 8,
+    "type": "single",
+    "question": "当网络A上的一个主机向网络B上的一个主机发送报文时，路由器需要检查__________地址。",
+    "options": [
+      {
+        "key": "A",
+        "text": "物理"
+      },
+      {
+        "key": "B",
+        "text": "IP"
+      },
+      {
+        "key": "C",
+        "text": "端口"
+      },
+      {
+        "key": "D",
+        "text": "其他"
+      }
+    ],
+    "answer": "B",
+    "explanation": "路由题先看目的网络和最长前缀匹配；RIP 用跳数作为距离，最大有效跳数是 15，16 表示不可达。路由表通常记录目的网络、距离/度量和下一跳。 本题正确答案是 B，对应选项“IP”。",
+    "images": []
+  },
+  {
+    "id": "Q273",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 9,
+    "type": "single",
+    "question": "以下哪一项应用是实时性要求比较高的应用。",
+    "options": [
+      {
+        "key": "A",
+        "text": "VOIP"
+      },
+      {
+        "key": "B",
+        "text": "电子邮件"
+      },
+      {
+        "key": "C",
+        "text": "网页浏览"
+      },
+      {
+        "key": "D",
+        "text": "网络管理"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题正确答案是 A，对应选项“VOIP”。",
+    "images": []
+  },
+  {
+    "id": "Q274",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 10,
+    "type": "truefalse",
+    "question": "计算机网络体系结构是分层结构",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q275",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 11,
+    "type": "truefalse",
+    "question": "两台计算机可以使用TCP/IP协议进行通信，尽管它们的硬件和软件平台并不相同。",
+    "options": [],
+    "answer": "T",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q276",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 12,
+    "type": "truefalse",
+    "question": "TCP/IP体系结构的网络接口层定义了标准的链路层和物理层协议",
+    "options": [],
+    "answer": "F",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题判断为“错误”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q277",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 13,
+    "type": "truefalse",
+    "question": "TCP/IP传输层与传输网络有关。",
+    "options": [],
+    "answer": "F",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题判断为“错误”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q278",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 14,
+    "type": "truefalse",
+    "question": "OSI参考模型是一个在制定标准时使用的概念性框架",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q279",
+    "chapter": "第1章｜计算机网络概述",
+    "originalChapter": "作业全集补充｜作业2（第一章 网络体系结构）.doc",
+    "number": 15,
+    "type": "truefalse",
+    "question": "对等层之间通过协议规范通信过程",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q280",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 1,
+    "type": "single",
+    "question": "在常用的传输介质中，__________的带宽最宽，信号传输衰减最小，抗干扰能力最强。",
+    "options": [
+      {
+        "key": "A",
+        "text": "双绞线"
+      },
+      {
+        "key": "B",
+        "text": "同轴电缆"
+      },
+      {
+        "key": "C",
+        "text": "光纤"
+      },
+      {
+        "key": "D",
+        "text": "微波"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题正确答案是 C，对应选项“光纤”。",
+    "images": []
+  },
+  {
+    "id": "Q281",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 2,
+    "type": "single",
+    "question": "在同一时刻，通信双方可以同时发送数据的信道通信方式为__________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "半双工通信"
+      },
+      {
+        "key": "B",
+        "text": "单工通信"
+      },
+      {
+        "key": "C",
+        "text": "数据报"
+      },
+      {
+        "key": "D",
+        "text": "全双工通信"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题正确答案是 D，对应选项“全双工通信”。",
+    "images": []
+  },
+  {
+    "id": "Q282",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 3,
+    "type": "single",
+    "question": "以下哪一项是检错和重传适合的传输环境?",
+    "options": [
+      {
+        "key": "A",
+        "text": "小概率、随机传输错误"
+      },
+      {
+        "key": "B",
+        "text": "小概率、单位传输错误"
+      },
+      {
+        "key": "C",
+        "text": "大概率、单位传输错误"
+      },
+      {
+        "key": "D",
+        "text": "大概率、随机传输错误"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题正确答案是 A，对应选项“小概率、随机传输错误”。",
+    "images": []
+  },
+  {
+    "id": "Q283",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 4,
+    "type": "single",
+    "question": "关于光缆的优点,以下哪一项的描述是错误的?",
+    "options": [
+      {
+        "key": "A",
+        "text": "无中继传输距离远"
+      },
+      {
+        "key": "B",
+        "text": "抗电磁干扰能力强"
+      },
+      {
+        "key": "C",
+        "text": "容易安装"
+      },
+      {
+        "key": "D",
+        "text": "光缆的密封性好"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题正确答案是 C，对应选项“容易安装”。",
+    "images": []
+  },
+  {
+    "id": "Q284",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 5,
+    "type": "single",
+    "question": "以下哪一项可以实现全双工通信?",
+    "options": [
+      {
+        "key": "A",
+        "text": "一对双绞线"
+      },
+      {
+        "key": "B",
+        "text": "两根光纤"
+      },
+      {
+        "key": "C",
+        "text": "一根同轴电缆"
+      },
+      {
+        "key": "D",
+        "text": "广播信道"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题正确答案是 B，对应选项“两根光纤”。",
+    "images": []
+  },
+  {
+    "id": "Q285",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 6,
+    "type": "truefalse",
+    "question": "检错码能够检测出所有可能的传输错误。",
+    "options": [],
+    "answer": "F",
+    "explanation": "本题判断为“错误”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q286",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 7,
+    "type": "truefalse",
+    "question": "多模光纤可传输不同波长不同入射角度的光",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q287",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 8,
+    "type": "truefalse",
+    "question": "采用多模光纤时，信号的最大传输距离比单模光纤长",
+    "options": [],
+    "answer": "F",
+    "explanation": "本题判断为“错误”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q288",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 9,
+    "type": "truefalse",
+    "question": "一般由同轴电缆构成点对点信道",
+    "options": [],
+    "answer": "F",
+    "explanation": "本题判断为“错误”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q289",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 10,
+    "type": "truefalse",
+    "question": "广播信道上连接三个以上结点",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q290",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 11,
+    "type": "truefalse",
+    "question": "点对点信道两端只能连接两个结点",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q291",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 12,
+    "type": "truefalse",
+    "question": "多模光纤的成本比单模光纤低",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q292",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 13,
+    "type": "truefalse",
+    "question": "一般由同轴电缆构成广播信道",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q293",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 14,
+    "type": "truefalse",
+    "question": "纠错码可以纠正所有可能的传输错误。",
+    "options": [],
+    "answer": "F",
+    "explanation": "本题判断为“错误”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q294",
+    "chapter": "第2章｜物理层",
+    "originalChapter": "作业全集补充｜作业3（第2章练习题）.doc",
+    "number": 15,
+    "type": "truefalse",
+    "question": "光纤适用于户外传输环境的主要原因在于生产工艺导致的密封性好。",
+    "options": [],
+    "answer": "F",
+    "explanation": "本题判断为“错误”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q295",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 1,
+    "type": "single",
+    "question": "一座大楼内的一个计算机网络系统，属于_________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "局域网"
+      },
+      {
+        "key": "B",
+        "text": "城域网"
+      },
+      {
+        "key": "C",
+        "text": "网际网"
+      },
+      {
+        "key": "D",
+        "text": "广域网"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题正确答案是 A，对应选项“局域网”。",
+    "images": []
+  },
+  {
+    "id": "Q296",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 2,
+    "type": "single",
+    "question": "下列不属于数据链路层功能的是_________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "封装成帧"
+      },
+      {
+        "key": "B",
+        "text": "电路管理功能"
+      },
+      {
+        "key": "C",
+        "text": "差错检测功能"
+      },
+      {
+        "key": "D",
+        "text": "透明传输"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题正确答案是 B，对应选项“电路管理功能”。",
+    "images": []
+  },
+  {
+    "id": "Q297",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 3,
+    "type": "single",
+    "question": "网卡是完成( ) 功能的。",
+    "options": [
+      {
+        "key": "A",
+        "text": "物理层"
+      },
+      {
+        "key": "B",
+        "text": "数据链路层"
+      },
+      {
+        "key": "C",
+        "text": "物理层和数据链路层"
+      },
+      {
+        "key": "D",
+        "text": "数据链路层和网络层"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题正确答案是 C，对应选项“物理层和数据链路层”。",
+    "images": []
+  },
+  {
+    "id": "Q298",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 4,
+    "type": "single",
+    "question": "以太网帧属于以下哪一层协议数据单元",
+    "options": [
+      {
+        "key": "A",
+        "text": "物理层"
+      },
+      {
+        "key": "B",
+        "text": "应用层"
+      },
+      {
+        "key": "C",
+        "text": "网络层"
+      },
+      {
+        "key": "D",
+        "text": "数据链路层"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题正确答案是 D，对应选项“数据链路层”。",
+    "images": []
+  },
+  {
+    "id": "Q299",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 5,
+    "type": "single",
+    "question": "判断以下哪个Ethernet物理地址是正确的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "00-60-08-0A"
+      },
+      {
+        "key": "B",
+        "text": "0060060A"
+      },
+      {
+        "key": "C",
+        "text": "00-60-08-00-0A-38"
+      },
+      {
+        "key": "D",
+        "text": "202.113.16.220"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题正确答案是 C，对应选项“00-60-08-00-0A-38”。",
+    "images": []
+  },
+  {
+    "id": "Q300",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 6,
+    "type": "single",
+    "question": "以下关于CSMA/CD的说法中正确的是______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "CSMA/CD应用在总线型以太网中，主要解决在多个站点同时发送数据时如何检测冲突、确保数据有序传输的问题。"
+      },
+      {
+        "key": "B",
+        "text": "信道空闲时站点才能开始传送它的帧。"
+      },
+      {
+        "key": "C",
+        "text": "如果两个站点同时开始传送，当它们侦听到信号的冲突，则暂停帧的发送。"
+      },
+      {
+        "key": "D",
+        "text": "以上都对"
+      }
+    ],
+    "answer": "D",
+    "explanation": "CSMA/CD 的口诀是“先听后发、边发边听、冲突停止、随机退避”，用于共享式/总线型以太网解决信道争用。 本题正确答案是 D，对应选项“以上都对”。",
+    "images": []
+  },
+  {
+    "id": "Q301",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 7,
+    "type": "single",
+    "question": "CSMA/CD算法的主要功能是( )。",
+    "options": [
+      {
+        "key": "A",
+        "text": "解决终端争用广播信道的问题"
+      },
+      {
+        "key": "B",
+        "text": "链路层差错控制"
+      },
+      {
+        "key": "C",
+        "text": "MAC帧寻址"
+      },
+      {
+        "key": "D",
+        "text": "MAC帧帧对界"
+      }
+    ],
+    "answer": "A",
+    "explanation": "CSMA/CD 的口诀是“先听后发、边发边听、冲突停止、随机退避”，用于共享式/总线型以太网解决信道争用。 本题正确答案是 A，对应选项“解决终端争用广播信道的问题”。",
+    "images": []
+  },
+  {
+    "id": "Q302",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 8,
+    "type": "single",
+    "question": "集线器和中继器属于哪一层设备。",
+    "options": [
+      {
+        "key": "A",
+        "text": "物理层"
+      },
+      {
+        "key": "B",
+        "text": "链路层"
+      },
+      {
+        "key": "C",
+        "text": "网络层"
+      },
+      {
+        "key": "D",
+        "text": "传输层"
+      }
+    ],
+    "answer": "A",
+    "explanation": "集线器工作在物理层，所有端口共享同一个冲突域、同一个广播域；交换机每个端口通常是独立冲突域，但默认仍属于同一个广播域，除非划分 VLAN。 本题正确答案是 A，对应选项“物理层”。",
+    "images": []
+  },
+  {
+    "id": "Q303",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 9,
+    "type": "single",
+    "question": "集线器主要应用于以下哪一种拓扑结构。",
+    "options": [
+      {
+        "key": "A",
+        "text": "网状形"
+      },
+      {
+        "key": "B",
+        "text": "总线形"
+      },
+      {
+        "key": "C",
+        "text": "星形"
+      },
+      {
+        "key": "D",
+        "text": "环形"
+      }
+    ],
+    "answer": "C",
+    "explanation": "集线器工作在物理层，所有端口共享同一个冲突域、同一个广播域；交换机每个端口通常是独立冲突域，但默认仍属于同一个广播域，除非划分 VLAN。 本题正确答案是 C，对应选项“星形”。",
+    "images": []
+  },
+  {
+    "id": "Q304",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 10,
+    "type": "single",
+    "question": "交换式局域网的核心设备是_________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "路由器"
+      },
+      {
+        "key": "B",
+        "text": "交换机"
+      },
+      {
+        "key": "C",
+        "text": "集线器"
+      },
+      {
+        "key": "D",
+        "text": "网桥"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题正确答案是 B，对应选项“交换机”。",
+    "images": []
+  },
+  {
+    "id": "Q305",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 11,
+    "type": "truefalse",
+    "question": "每一个网卡的MAC地址是全球唯一的",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q306",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 12,
+    "type": "truefalse",
+    "question": "连接到集线器的结点发送数据时，将执行CSMA/CD算法",
+    "options": [],
+    "answer": "T",
+    "explanation": "集线器工作在物理层，所有端口共享同一个冲突域、同一个广播域；交换机每个端口通常是独立冲突域，但默认仍属于同一个广播域，除非划分 VLAN。 CSMA/CD 的口诀是“先听后发、边发边听、冲突停止、随机退避”，用于共享式/总线型以太网解决信道争用。 本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q307",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业4：总线型以太网.doc",
+    "number": 13,
+    "type": "truefalse",
+    "question": "以太网用MAC 地址标识主机。",
+    "options": [],
+    "answer": "T",
+    "explanation": "本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q308",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业5：网桥及VLAN.doc",
+    "number": 1,
+    "type": "single",
+    "question": "下面哪项不属于使用网桥分割网络所带来的好处？",
+    "options": [
+      {
+        "key": "A",
+        "text": "减小冲突域的范围"
+      },
+      {
+        "key": "B",
+        "text": "增加每个网段上每个结点所能获得的宽带"
+      },
+      {
+        "key": "C",
+        "text": "过滤在网段之间传输的数据"
+      },
+      {
+        "key": "D",
+        "text": "将广播域划分成更小的范围"
+      }
+    ],
+    "answer": "D",
+    "explanation": "交换机/网桥类题先记住两条：收到帧时先学习“源 MAC→入端口”；查不到目的 MAC 就洪泛，查得到就只从对应端口转发。VLAN 题还要看广播域是否被 VLAN 隔离。 本题正确答案是 D，对应选项“将广播域划分成更小的范围”。",
+    "images": []
+  },
+  {
+    "id": "Q309",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业5：网桥及VLAN.doc",
+    "number": 2,
+    "type": "single",
+    "question": "网桥转发数据的依据是（）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "ARP表"
+      },
+      {
+        "key": "B",
+        "text": "MAC地址表"
+      },
+      {
+        "key": "C",
+        "text": "路由表"
+      },
+      {
+        "key": "D",
+        "text": "访问控制列表"
+      }
+    ],
+    "answer": "B",
+    "explanation": "交换机/网桥类题先记住两条：收到帧时先学习“源 MAC→入端口”；查不到目的 MAC 就洪泛，查得到就只从对应端口转发。VLAN 题还要看广播域是否被 VLAN 隔离。 本题正确答案是 B，对应选项“MAC地址表”。",
+    "images": []
+  },
+  {
+    "id": "Q310",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业5：网桥及VLAN.doc",
+    "number": 3,
+    "type": "single",
+    "question": "关于交换式以太网，以下哪一项描述是正确的。",
+    "options": [
+      {
+        "key": "A",
+        "text": "电路交换网络"
+      },
+      {
+        "key": "B",
+        "text": "虚电路分组交换网络"
+      },
+      {
+        "key": "C",
+        "text": "数据报分组交换网络"
+      },
+      {
+        "key": "D",
+        "text": "以上都不是"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题正确答案是 C，对应选项“数据报分组交换网络”。",
+    "images": []
+  },
+  {
+    "id": "Q311",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业5：网桥及VLAN.doc",
+    "number": 4,
+    "type": "single",
+    "question": "一个24端口的集线器的冲突域和广播域的个数分别是_________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "24，1"
+      },
+      {
+        "key": "B",
+        "text": "24，24"
+      },
+      {
+        "key": "C",
+        "text": "1，1"
+      },
+      {
+        "key": "D",
+        "text": "1，24"
+      }
+    ],
+    "answer": "C",
+    "explanation": "集线器工作在物理层，所有端口共享同一个冲突域、同一个广播域；交换机每个端口通常是独立冲突域，但默认仍属于同一个广播域，除非划分 VLAN。 传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 C，对应选项“1，1”。",
+    "images": []
+  },
+  {
+    "id": "Q312",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业5：网桥及VLAN.doc",
+    "number": 5,
+    "type": "single",
+    "question": "一个48端口的交换机的冲突域和广播域的个数分别是_________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "1，1"
+      },
+      {
+        "key": "B",
+        "text": "48，48"
+      },
+      {
+        "key": "C",
+        "text": "48，1"
+      },
+      {
+        "key": "D",
+        "text": "1，48"
+      }
+    ],
+    "answer": "C",
+    "explanation": "交换机/网桥类题先记住两条：收到帧时先学习“源 MAC→入端口”；查不到目的 MAC 就洪泛，查得到就只从对应端口转发。VLAN 题还要看广播域是否被 VLAN 隔离。 集线器工作在物理层，所有端口共享同一个冲突域、同一个广播域；交换机每个端口通常是独立冲突域，但默认仍属于同一个广播域，除非划分 VLAN。 传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 C，对应选项“48，1”。",
+    "images": []
+  },
+  {
+    "id": "Q313",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业5：网桥及VLAN.doc",
+    "number": 6,
+    "type": "single",
+    "question": "如果端口x是接入端口，且属于VLAN 10，以下哪一项描述是错误的",
+    "options": [
+      {
+        "key": "A",
+        "text": "直接与端口x相连的终端属于VLAN 10"
+      },
+      {
+        "key": "B",
+        "text": "如果某个集线器与端口x相连，连接在该集线器上的终端都属于VLAN 10"
+      },
+      {
+        "key": "C",
+        "text": "如果通过端口x接收到一帧没有携带VLAN ID的MAC帧，该MAC帧属于VLAN 10"
+      },
+      {
+        "key": "D",
+        "text": "端口x能够接收到一帧携带VLAN ID=20的MAC帧"
+      }
+    ],
+    "answer": "D",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 D，对应选项“端口x能够接收到一帧携带VLAN ID=20的MAC帧”。",
+    "images": []
+  },
+  {
+    "id": "Q314",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业5：网桥及VLAN.doc",
+    "number": 7,
+    "type": "fill",
+    "question": "网络结构如图所示，假定交换机初始转发表为空，给出依次进行①～⑤MAC帧传输过程时，交换机1和交换机2转发表变化过程。 （备注：如填空中没有需要填写的内容，填入“无”字） ①终端A→终端B； ②终端G→终端H； ③终端B→终端A；④终端H→终端G；⑤终端E→终端H； 交换机1转发 表 交换机2转发表 传输操作 MAC地址 转发端口 MAC地址 转发端口 A →B ____ [ 第1空] ____ [ 第2空] ____ [ 第3空] ____ [ 第4空] G →H ____ [ 第5空] ____ [ 第6空] ____ [ 第7空] ____ [ 第8空] B →A ____ [ 第9空] ____[ 第10空] ____ [ 第11空] ____ [ 第12空] H →G ____ [ 第13空] ____ [ 第14空] ____ [ 第15空] ____ [ 第16空] E →H ____ [ 第17空] ____ [ 第18空] ____ [ 第19空] ____ [ 第20空]",
+    "options": [],
+    "answer": "第1空: MAC A；MACA； 第2空: 1； 第3空: MAC A；MACA； 第4空: 4； 第5空: MAC G；MACG； 第6空: 4； 第7空: MAC G；MACG； 第8空: 4； 第9空: MAC B；MACB； 第10空: 2； 第11空: 无； 第12空: 无； 第13空: MAC H；MACH； 第14空: 4； 第15空: MAC H；MACH； 第16空: 4； 第17空: MAC E；MACE； 第18空: 4； 第19空: MAC E；MACE； 第20空: 2；",
+    "explanation": "交换机/网桥类题先记住两条：收到帧时先学习“源 MAC→入端口”；查不到目的 MAC 就洪泛，查得到就只从对应端口转发。VLAN 题还要看广播域是否被 VLAN 隔离。 传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题答案为：第1空: MAC A；MACA； 第2空: 1； 第3空: MAC A；MACA； 第4空: 4； 第5空: MAC G；MACG； 第6空: 4； 第7空: MAC G；MACG； 第8空: 4； 第9空: MAC B；MACB； 第10空: 2； 第11空: 无； 第12空: 无； 第13空: MAC H；MACH； 第14空: 4； 第15空: MAC H；MACH； 第16空: 4； 第17空: MAC E；MACE； 第18空: 4； 第19空: MAC E；MACE； 第20空: 2；。同类填空/计算题不要直接背结果，要按网络层次、地址变化或公式步骤逐项推出。",
+    "images": []
+  },
+  {
+    "id": "Q315",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业6（无线局域网）.doc",
+    "number": 1,
+    "type": "single",
+    "question": "以太网100BASE-TX标准规定的传输介质是( )。",
+    "options": [
+      {
+        "key": "A",
+        "text": "3 类 UTP（非屏蔽双绞线）"
+      },
+      {
+        "key": "B",
+        "text": "5 类 UTP（非屏蔽双绞线）"
+      },
+      {
+        "key": "C",
+        "text": "单模光纤"
+      },
+      {
+        "key": "D",
+        "text": "多模光纤"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题正确答案是 B，对应选项“5 类 UTP（非屏蔽双绞线）”。",
+    "images": []
+  },
+  {
+    "id": "Q316",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业6（无线局域网）.doc",
+    "number": 2,
+    "type": "single",
+    "question": "以下哪一项是目前引发人们对无线局域网广泛需求的重要因素？",
+    "options": [
+      {
+        "key": "A",
+        "text": "高可靠性"
+      },
+      {
+        "key": "B",
+        "text": "高安全性"
+      },
+      {
+        "key": "C",
+        "text": "高传输速率"
+      },
+      {
+        "key": "D",
+        "text": "移动通信能力"
+      }
+    ],
+    "answer": "D",
+    "explanation": "无线局域网 802.11 采用 CSMA/CA，即尽量避免碰撞；无线节点很难边发边检测碰撞，所以不能照搬以太网的 CSMA/CD。 本题正确答案是 D，对应选项“移动通信能力”。",
+    "images": []
+  },
+  {
+    "id": "Q317",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业6（无线局域网）.doc",
+    "number": 3,
+    "type": "single",
+    "question": "共享式以太网的媒体接入控制协议和 802.11 局域网的媒体接入控制协议分别是",
+    "options": [
+      {
+        "key": "A",
+        "text": "CSMA/CD， CSMA/CA"
+      },
+      {
+        "key": "B",
+        "text": "CSMA/CD， CDMA"
+      },
+      {
+        "key": "C",
+        "text": "CSMA/CA， CDMA"
+      },
+      {
+        "key": "D",
+        "text": "CSMA/CA， Wi-Fi"
+      }
+    ],
+    "answer": "A",
+    "explanation": "无线局域网 802.11 采用 CSMA/CA，即尽量避免碰撞；无线节点很难边发边检测碰撞，所以不能照搬以太网的 CSMA/CD。 本题正确答案是 A，对应选项“CSMA/CD， CSMA/CA”。",
+    "images": []
+  },
+  {
+    "id": "Q318",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业6（无线局域网）.doc",
+    "number": 4,
+    "type": "single",
+    "question": "下面有关 CSMA/CA 协议的描述中，错误的是（ )",
+    "options": [
+      {
+        "key": "A",
+        "text": "CA 是碰撞避免的"
+      },
+      {
+        "key": "B",
+        "text": "短帧间间隔 SIFS 用来分隔开属于一次对话的各帧"
+      },
+      {
+        "key": "C",
+        "text": "使用 RTS 帧和 CTS 帧进行信道预约"
+      },
+      {
+        "key": "D",
+        "text": "使用信道预约机制可以完全避免碰撞"
+      }
+    ],
+    "answer": "D",
+    "explanation": "无线局域网 802.11 采用 CSMA/CA，即尽量避免碰撞；无线节点很难边发边检测碰撞，所以不能照搬以太网的 CSMA/CD。 本题正确答案是 D，对应选项“使用信道预约机制可以完全避免碰撞”。",
+    "images": []
+  },
+  {
+    "id": "Q319",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业6（无线局域网）.doc",
+    "number": 5,
+    "type": "single",
+    "question": "如图 所示的 802.11 无线局域网中，主机 A 要通过接入点 AP 给主机 B 发送 一个数据帧，则该数据帧从主机 A 发出时，其地址字段中的地址 1、地址 2 以及地 址 3 分别为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "MAC1、MAC2、MAC3"
+      },
+      {
+        "key": "B",
+        "text": "MAC3、MAC2、MAC1"
+      },
+      {
+        "key": "C",
+        "text": "MAC3、MAC1、MAC2"
+      },
+      {
+        "key": "D",
+        "text": "MAC2、MAC1、MAC3"
+      }
+    ],
+    "answer": "D",
+    "explanation": "无线局域网 802.11 采用 CSMA/CA，即尽量避免碰撞；无线节点很难边发边检测碰撞，所以不能照搬以太网的 CSMA/CD。 本题正确答案是 D，对应选项“MAC2、MAC1、MAC3”。",
+    "images": []
+  },
+  {
+    "id": "Q320",
+    "chapter": "第3章｜数据链路层",
+    "originalChapter": "作业全集补充｜作业6（无线局域网）.doc",
+    "number": 6,
+    "type": "truefalse",
+    "question": "网桥是电路交换设备。",
+    "options": [],
+    "answer": "F",
+    "explanation": "交换机/网桥类题先记住两条：收到帧时先学习“源 MAC→入端口”；查不到目的 MAC 就洪泛，查得到就只从对应端口转发。VLAN 题还要看广播域是否被 VLAN 隔离。 本题判断为“错误”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q321",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业7：IP分类编址及子网划分.doc",
+    "number": 1,
+    "type": "single",
+    "question": "在下面的IP地址中属于C类地址的是_________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "141.0.0.0"
+      },
+      {
+        "key": "B",
+        "text": "10.10.1.2"
+      },
+      {
+        "key": "C",
+        "text": "197.234.111.123"
+      },
+      {
+        "key": "D",
+        "text": "225.33.45.56"
+      }
+    ],
+    "answer": "C",
+    "explanation": "IP/子网题通用方法：先把前缀或掩码换成网络位数；网络地址=主机位全 0；直接广播地址=主机位全 1；可用主机地址范围=网络地址+1 到 广播地址-1。 本题正确答案是 C，对应选项“197.234.111.123”。",
+    "images": []
+  },
+  {
+    "id": "Q322",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业7：IP分类编址及子网划分.doc",
+    "number": 2,
+    "type": "single",
+    "question": "IP地址块 59.67.159.125 /11 的子网掩码可写为",
+    "options": [
+      {
+        "key": "A",
+        "text": "255.128.0.0"
+      },
+      {
+        "key": "B",
+        "text": "255.192.0.0"
+      },
+      {
+        "key": "C",
+        "text": "255.224.0.0"
+      },
+      {
+        "key": "D",
+        "text": "255.240.0.0"
+      }
+    ],
+    "answer": "C",
+    "explanation": "IP/子网题通用方法：先把前缀或掩码换成网络位数；网络地址=主机位全 0；直接广播地址=主机位全 1；可用主机地址范围=网络地址+1 到 广播地址-1。 本题正确答案是 C，对应选项“255.224.0.0”。",
+    "images": []
+  },
+  {
+    "id": "Q323",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业7：IP分类编址及子网划分.doc",
+    "number": 3,
+    "type": "fill",
+    "question": "分类编址下，IP地址 192.1.1.3 对应的网络地址是( ____[第1空] )，该网络地址中最小有效主机地址是( ____[第2空] )，最大有效主机地址是( ____[第3空] )，直接广播地址是( ____[第4空] )。 （备注：答案填写为a.b.c.d形式）",
+    "options": [],
+    "answer": "第1空: 192.1.1.0 第2空: 192.1.1.1 第3空: 192.1.1.254 第4空: 192.1.1.255",
+    "explanation": "IP/子网题通用方法：先把前缀或掩码换成网络位数；网络地址=主机位全 0；直接广播地址=主机位全 1；可用主机地址范围=网络地址+1 到 广播地址-1。 本题答案为：第1空: 192.1.1.0 第2空: 192.1.1.1 第3空: 192.1.1.254 第4空: 192.1.1.255。同类填空/计算题不要直接背结果，要按网络层次、地址变化或公式步骤逐项推出。",
+    "images": []
+  },
+  {
+    "id": "Q324",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业7：IP分类编址及子网划分.doc",
+    "number": 4,
+    "type": "fill",
+    "question": "某单位分配到一块地址212.115.100.0/24。现在需要进一步划分为4个一样大的子网。试问: （1）用点分十进制形式表示子网的掩码是：____[第1空] （2）每一个子网中可分配多少可用的IP地址？（不包括主机部分全0和全1地址）____ [第2空] （3）每一个子网地址表示形式是什么？（将子网从小到大表示为a.b.c.d/x形式） 子网1的表示形式：____ [第3空]; 子网2的表示形式：____ [第4空]; 子网3的表示形式：____ [第5空]; 子网4的表示形式: ____ [第6空]; （4）子网1, 子网4可分配给主机使用的最小ip地址和最大ip地址是什么？（表示为a.b.c.d形式） 子网1可用的最小IP地址：____[第7空]; 子网1可用的最大IP地址：____[第8空]; 子网4可用的最小IP地址：____ [第9空]; 子网4可用的最大IP地址：____[第10空];",
+    "options": [],
+    "answer": "第1空: 255.255.255.192 第2空: 62 第3空: 212.115.100.0/26 第4空: 212.115.100.64/26 第5空: 212.115.100.128/26 第6空: 212.115.100.192/26 第7空: 212.115.100.1 第8空: 212.115.100.62 第9空: 212.115.100.193 第10空: 212.115.100.254",
+    "explanation": "IP/子网题通用方法：先把前缀或掩码换成网络位数；网络地址=主机位全 0；直接广播地址=主机位全 1；可用主机地址范围=网络地址+1 到 广播地址-1。 本题答案为：第1空: 255.255.255.192 第2空: 62 第3空: 212.115.100.0/26 第4空: 212.115.100.64/26 第5空: 212.115.100.128/26 第6空: 212.115.100.192/26 第7空: 212.115.100.1 第8空: 212.115.100.62 第9空: 212.115.100.193 第10空: 212.115.100.254。同类填空/计算题不要直接背结果，要按网络层次、地址变化或公式步骤逐项推出。",
+    "images": []
+  },
+  {
+    "id": "Q325",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业8（IP无分类地址及数据传输.docx",
+    "number": 1,
+    "type": "single",
+    "question": "ARP协议的主要功能是_________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "将IP地址解析为物理地址"
+      },
+      {
+        "key": "B",
+        "text": "将物理地址解析为IP地址"
+      },
+      {
+        "key": "C",
+        "text": "将主机域名解析为IP地址"
+      },
+      {
+        "key": "D",
+        "text": "将IP地址解析为主机域名"
+      }
+    ],
+    "answer": "A",
+    "explanation": "ARP 的作用是已知 IP 地址求对应 MAC 地址，只解决同一链路/同一局域网内下一跳的物理地址问题。 本题正确答案是 A，对应选项“将IP地址解析为物理地址”。",
+    "images": []
+  },
+  {
+    "id": "Q326",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业8（IP无分类地址及数据传输.docx",
+    "number": 2,
+    "type": "single",
+    "question": "如果CIDR地址块是192.3.7.0/24，划分子网后的子网掩码是255.255.255.248，划分的最大子网数量和每一个子网可以分配的IP地址数量分别是( )。",
+    "options": [
+      {
+        "key": "A",
+        "text": "(32，8)"
+      },
+      {
+        "key": "B",
+        "text": "(32，6)"
+      },
+      {
+        "key": "C",
+        "text": "(8，32）"
+      },
+      {
+        "key": "D",
+        "text": "(8，30）"
+      }
+    ],
+    "answer": "B",
+    "explanation": "IP/子网题通用方法：先把前缀或掩码换成网络位数；网络地址=主机位全 0；直接广播地址=主机位全 1；可用主机地址范围=网络地址+1 到 广播地址-1。 本题正确答案是 B，对应选项“(32，6)”。",
+    "images": []
+  },
+  {
+    "id": "Q327",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业9（路由）.doc",
+    "number": 1,
+    "type": "single",
+    "question": "动态路由选择和静态路由选择的主要区别在哪里？",
+    "options": [
+      {
+        "key": "A",
+        "text": "动态路由选择需要维护整个网络的拓扑结构信息，而静态路由选择之需要维护有限的拓扑结构信息"
+      },
+      {
+        "key": "B",
+        "text": "动态路由选择需要使用路由选择协议去发现和维护路由信息，而静态路由选择只需要手动配置路由信息"
+      },
+      {
+        "key": "C",
+        "text": "动态路由选择的可扩展性要大大优于静态路由选择，因为在网络拓扑发成变化时，路由选择不需要手动配置去通知路由器"
+      },
+      {
+        "key": "D",
+        "text": "动态路由选择使用路由表，而静态路由选择不使用路由表"
+      }
+    ],
+    "answer": "B",
+    "explanation": "路由题先看目的网络和最长前缀匹配；RIP 用跳数作为距离，最大有效跳数是 15，16 表示不可达。路由表通常记录目的网络、距离/度量和下一跳。 本题正确答案是 B，对应选项“动态路由选择需要使用路由选择协议去发现和维护路由信息，而静态路由选择只需要手动配置路由信息”。",
+    "images": []
+  },
+  {
+    "id": "Q328",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业9（路由）.doc",
+    "number": 2,
+    "type": "single",
+    "question": "如果路由器接收到目的IP地址为192.26.17.4的IP分组，以下哪个目的网络与该IP分组匹配？",
+    "options": [
+      {
+        "key": "A",
+        "text": "192.26.0.0/21"
+      },
+      {
+        "key": "B",
+        "text": "192.26.8.0/22"
+      },
+      {
+        "key": "C",
+        "text": "192.26.16.0/22"
+      },
+      {
+        "key": "D",
+        "text": "192.26.20.0/22"
+      }
+    ],
+    "answer": "C",
+    "explanation": "IP/子网题通用方法：先把前缀或掩码换成网络位数；网络地址=主机位全 0；直接广播地址=主机位全 1；可用主机地址范围=网络地址+1 到 广播地址-1。 路由题先看目的网络和最长前缀匹配；RIP 用跳数作为距离，最大有效跳数是 15，16 表示不可达。路由表通常记录目的网络、距离/度量和下一跳。 本题正确答案是 C，对应选项“192.26.16.0/22”。",
+    "images": []
+  },
+  {
+    "id": "Q329",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业9（路由）.doc",
+    "number": 3,
+    "type": "single",
+    "question": "RIP协议允许的最大跳数是_______。",
+    "options": [
+      {
+        "key": "A",
+        "text": "16"
+      },
+      {
+        "key": "B",
+        "text": "15"
+      },
+      {
+        "key": "C",
+        "text": "30"
+      },
+      {
+        "key": "D",
+        "text": "25"
+      }
+    ],
+    "answer": "B",
+    "explanation": "路由题先看目的网络和最长前缀匹配；RIP 用跳数作为距离，最大有效跳数是 15，16 表示不可达。路由表通常记录目的网络、距离/度量和下一跳。 本题正确答案是 B，对应选项“15”。",
+    "images": []
+  },
+  {
+    "id": "Q330",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业9（路由）.doc",
+    "number": 4,
+    "type": "single",
+    "question": "应用程序PING 发出的是___报文。",
+    "options": [
+      {
+        "key": "A",
+        "text": "TCP 请求报文"
+      },
+      {
+        "key": "B",
+        "text": "TCP 应答报文"
+      },
+      {
+        "key": "C",
+        "text": "ICMP 请求报文"
+      },
+      {
+        "key": "D",
+        "text": "ICMP 应答报文"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题正确答案是 C，对应选项“ICMP 请求报文”。",
+    "images": []
+  },
+  {
+    "id": "Q331",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业9（路由）.doc",
+    "number": 5,
+    "type": "fill",
+    "question": "R1、R2是两个采用RIP的相邻路由器，R1的路由表如表（a）所示，R2发送的路由消息如表（b）所示，R1根据R2发送的路由消息更新路由表，填写更新后的R1路由表信息。 R1路由表变更为： 目的网络 距离 下一跳 10.0.0.0 ____ [第1空] ____ [第2空] 20.0.0.0 ____ [第3空] ____ [第4空] 30.0.0.0 ____ [第5空] ____ [第6空] 40.0.0.0 ____ [第7空] ____ [第8空] 50.0.0.0 ____ [第9空] ____ [第10空]",
+    "options": [],
+    "answer": "第1空: 0 第2空:直接 第3空: 4 第4空: R2 第5空: 4 第6空: R3 第7空: 3 第8空: R4 第9空: 2 第10空: R2",
+    "explanation": "路由题先看目的网络和最长前缀匹配；RIP 用跳数作为距离，最大有效跳数是 15，16 表示不可达。路由表通常记录目的网络、距离/度量和下一跳。 本题答案为：第1空: 0 第2空:直接 第3空: 4 第4空: R2 第5空: 4 第6空: R3 第7空: 3 第8空: R4 第9空: 2 第10空: R2。同类填空/计算题不要直接背结果，要按网络层次、地址变化或公式步骤逐项推出。",
+    "images": []
+  },
+  {
+    "id": "Q332",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业9（路由）.doc",
+    "number": 6,
+    "type": "truefalse",
+    "question": "路由项中指定下一跳地址，表示只有下一跳地址指定的路由器才能继续转发前一跳路由器根据该路由项转发的IP分组。",
+    "options": [],
+    "answer": "T",
+    "explanation": "路由题先看目的网络和最长前缀匹配；RIP 用跳数作为距离，最大有效跳数是 15，16 表示不可达。路由表通常记录目的网络、距离/度量和下一跳。 本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q333",
+    "chapter": "第4章｜网络层",
+    "originalChapter": "作业全集补充｜作业9（路由）.doc",
+    "number": 7,
+    "type": "truefalse",
+    "question": "如果两个终端之间出现新的跳数更少的传输路径，RIP将两个终端之间的传输路径更新为新的跳数更少的传输路径。",
+    "options": [],
+    "answer": "T",
+    "explanation": "路由题先看目的网络和最长前缀匹配；RIP 用跳数作为距离，最大有效跳数是 15，16 表示不可达。路由表通常记录目的网络、距离/度量和下一跳。 本题判断为“正确”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q334",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业10（传输层概念）.doc",
+    "number": 1,
+    "type": "single",
+    "question": "计算机网络最本质的活动是分布在不同地理位置的主机之间的__。",
+    "options": [
+      {
+        "key": "A",
+        "text": "数据交换"
+      },
+      {
+        "key": "B",
+        "text": "网络连接"
+      },
+      {
+        "key": "C",
+        "text": "进程通信"
+      },
+      {
+        "key": "D",
+        "text": "网络服务"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题正确答案是 C，对应选项“进程通信”。",
+    "images": []
+  },
+  {
+    "id": "Q335",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业10（传输层概念）.doc",
+    "number": 2,
+    "type": "single",
+    "question": "在TCP/IP参考模型中，传输层的主要作用是在互联网络的源主机与目的主机对等实体之间建立用于会话的_________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "点到点连接"
+      },
+      {
+        "key": "B",
+        "text": "操作连接"
+      },
+      {
+        "key": "C",
+        "text": "端到端连接"
+      },
+      {
+        "key": "D",
+        "text": "控制连接"
+      }
+    ],
+    "answer": "C",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 C，对应选项“端到端连接”。",
+    "images": []
+  },
+  {
+    "id": "Q336",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业10（传输层概念）.doc",
+    "number": 3,
+    "type": "single",
+    "question": "下列关于TCP协议的说法中，哪一个是错误的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "TCP协议可以提供可靠的数据流传输服务"
+      },
+      {
+        "key": "B",
+        "text": "TCP协议可以提供面向连接的数据流传输服务"
+      },
+      {
+        "key": "C",
+        "text": "TCP协议可以提供全双工的数据流传输服务"
+      },
+      {
+        "key": "D",
+        "text": "TCP协议可以提供面向非连接的数据流传输服务"
+      }
+    ],
+    "answer": "D",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 D，对应选项“TCP协议可以提供面向非连接的数据流传输服务”。",
+    "images": []
+  },
+  {
+    "id": "Q337",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业10（传输层概念）.doc",
+    "number": 4,
+    "type": "single",
+    "question": "关于TCP和UDP端口，下列说法中正确的是_________",
+    "options": [
+      {
+        "key": "A",
+        "text": "TCP和UDP分别拥有自己的端口号，二者互不干扰，可以共存于同一台主机"
+      },
+      {
+        "key": "B",
+        "text": "TCP和UDP分别拥有自己的端口号，但二者不能共存于同一台主机"
+      },
+      {
+        "key": "C",
+        "text": "TCP和UDP的端口号没有本质区别，二者互不干扰，可以共存于同一台主机"
+      },
+      {
+        "key": "D",
+        "text": "TCP和UDP的端口号没有本质区别，但二者相互干扰，不能共存于同一台主机"
+      }
+    ],
+    "answer": "A",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 A，对应选项“TCP和UDP分别拥有自己的端口号，二者互不干扰，可以共存于同一台主机”。",
+    "images": []
+  },
+  {
+    "id": "Q338",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业10（传输层概念）.doc",
+    "number": 5,
+    "type": "truefalse",
+    "question": "TCP协议因为面向字节流，所示实现过程简单。",
+    "options": [],
+    "answer": "F",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题判断为“错误”。做判断题时要抓绝对化词和层次边界，例如“只在某层”“必须”“一定”等。",
+    "images": []
+  },
+  {
+    "id": "Q339",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 1,
+    "type": "single",
+    "question": "一条TCP连接的建立过程包括_________个步骤。",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 B，对应选项“3”。",
+    "images": []
+  },
+  {
+    "id": "Q340",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 2,
+    "type": "single",
+    "question": "TCP连接时要进行三次握手，在这三次交互中，标志位分别应是什么？",
+    "options": [
+      {
+        "key": "A",
+        "text": "SYN, ACK, SYN+ACK"
+      },
+      {
+        "key": "B",
+        "text": "SYN, ACK, ACK"
+      },
+      {
+        "key": "C",
+        "text": "SYN+ACK, SYN+ACK, ACK"
+      },
+      {
+        "key": "D",
+        "text": "SYN, SYN+ACK, ACK"
+      }
+    ],
+    "answer": "D",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 TCP 三次握手顺序是 SYN → SYN+ACK → ACK，目的是确认双方收发能力并建立连接状态。 本题正确答案是 D，对应选项“SYN, SYN+ACK, ACK”。",
+    "images": []
+  },
+  {
+    "id": "Q341",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 3,
+    "type": "single",
+    "question": "TCP报文中，确认号为1000表示（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "已收到998 B"
+      },
+      {
+        "key": "B",
+        "text": "已收到999 B"
+      },
+      {
+        "key": "C",
+        "text": "已收到 1000 B"
+      },
+      {
+        "key": "D",
+        "text": "已收到 1001 B"
+      }
+    ],
+    "answer": "B",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 TCP 确认号表示“期望收到的下一个字节序号”，所以收到从序号 S 开始、长度 L 的连续数据后，确认号通常是 S+L。 本题正确答案是 B，对应选项“已收到999 B”。",
+    "images": []
+  },
+  {
+    "id": "Q342",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 4,
+    "type": "single",
+    "question": "在一个TCP连接的数据传输阶段，如果发送端的发送窗口值由2000变为3000，意味着发送端可以_________。",
+    "options": [
+      {
+        "key": "A",
+        "text": "在收到一个确认之前可以发送3000个TCP报文段"
+      },
+      {
+        "key": "B",
+        "text": "在收到一个确认之前可以发送1000个字节"
+      },
+      {
+        "key": "C",
+        "text": "在收到一个确认之前可以发送3000个字节"
+      },
+      {
+        "key": "D",
+        "text": "在收到一个确认之前可以发送2000个TCP报文段"
+      }
+    ],
+    "answer": "C",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 C，对应选项“在收到一个确认之前可以发送3000个字节”。",
+    "images": []
+  },
+  {
+    "id": "Q343",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 5,
+    "type": "single",
+    "question": "主机甲与主机乙之间已建立一个TCP连接，主机甲向主机乙发送了两个连续的TCP段，分别包含300B和500B的有效载荷，第一个段的序列号为200，主机乙正确接收两个段后，发送给主机甲的确认序列号是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "500"
+      },
+      {
+        "key": "B",
+        "text": "700"
+      },
+      {
+        "key": "C",
+        "text": "800"
+      },
+      {
+        "key": "D",
+        "text": "1000"
+      }
+    ],
+    "answer": "D",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 TCP 确认号表示“期望收到的下一个字节序号”，所以收到从序号 S 开始、长度 L 的连续数据后，确认号通常是 S+L。 本题正确答案是 D，对应选项“1000”。",
+    "images": []
+  },
+  {
+    "id": "Q344",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 6,
+    "type": "single",
+    "question": "TCP拥塞控制机制中发送端确定网络发生拥塞的依据是（ )。",
+    "options": [
+      {
+        "key": "A",
+        "text": "络中存在拥塞现象的设备向发送端发送显式通知"
+      },
+      {
+        "key": "B",
+        "text": "收端向发送端发送窗口字段值等于0的确认应答"
+      },
+      {
+        "key": "C",
+        "text": "发送端监测到某个TCP报文因为出现差错需要重传"
+      },
+      {
+        "key": "D",
+        "text": "发送端需要减少发送窗口"
+      }
+    ],
+    "answer": "C",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 C，对应选项“发送端监测到某个TCP报文因为出现差错需要重传”。",
+    "images": []
+  },
+  {
+    "id": "Q345",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 7,
+    "type": "single",
+    "question": "下述哪一项项是描述TCP拥塞控制机制的关键词",
+    "options": [
+      {
+        "key": "A",
+        "text": "检错码、确认应答和重传"
+      },
+      {
+        "key": "B",
+        "text": "端口、序号和窗口"
+      },
+      {
+        "key": "C",
+        "text": "TCP报文重传、重传原因判别和拥塞窗口调整"
+      },
+      {
+        "key": "D",
+        "text": "慢启动、拥塞避免和慢启动阈值"
+      }
+    ],
+    "answer": "C",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 C，对应选项“TCP报文重传、重传原因判别和拥塞窗口调整”。",
+    "images": []
+  },
+  {
+    "id": "Q346",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 8,
+    "type": "single",
+    "question": "TCP连接刚建立时采取慢启动发送机制的原因是",
+    "options": [
+      {
+        "key": "A",
+        "text": "既可探测网络承载能力，又可使发送窗口快速达到通知窗口"
+      },
+      {
+        "key": "B",
+        "text": "发送端维持较低的发送流量，避免网络发生拥塞"
+      },
+      {
+        "key": "C",
+        "text": "发送端维持较高的发送流量，以实现较高吞吐率"
+      },
+      {
+        "key": "D",
+        "text": "接收端对发送端的要求"
+      }
+    ],
+    "answer": "A",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 A，对应选项“既可探测网络承载能力，又可使发送窗口快速达到通知窗口”。",
+    "images": []
+  },
+  {
+    "id": "Q347",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 9,
+    "type": "single",
+    "question": "关于流量控制和拥塞控制，以下哪一项描述是错误的",
+    "options": [
+      {
+        "key": "A",
+        "text": "流量控制是一种防止发送端流量超出接收端处理能力的机制"
+      },
+      {
+        "key": "B",
+        "text": "拥塞控制一种防止发送端流量超出网络处理能力的机制"
+      },
+      {
+        "key": "C",
+        "text": "TCP通过窗口字段值来实现流量控制"
+      },
+      {
+        "key": "D",
+        "text": "TCP通过ICMP网络拥塞报告来实现拥塞控制"
+      }
+    ],
+    "answer": "D",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 D，对应选项“TCP通过ICMP网络拥塞报告来实现拥塞控制”。",
+    "images": []
+  },
+  {
+    "id": "Q348",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 10,
+    "type": "single",
+    "question": "重传定时器溢出时如此设置慢启动阈值的原因是",
+    "options": [
+      {
+        "key": "A",
+        "text": "既可探测网络承载能力，又可使发送窗口快速达到通知窗口"
+      },
+      {
+        "key": "B",
+        "text": "发送端维持较低的发送流量，避免网络发生拥塞"
+      },
+      {
+        "key": "C",
+        "text": "发送端维持较高的发送流量，以实现较高吞吐率"
+      },
+      {
+        "key": "D",
+        "text": "在接近导致网络发生拥塞的流量时必须缓慢增加流量，以免网络立即再次发生拥塞"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题正确答案是 D，对应选项“在接近导致网络发生拥塞的流量时必须缓慢增加流量，以免网络立即再次发生拥塞”。",
+    "images": []
+  },
+  {
+    "id": "Q349",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 11,
+    "type": "single",
+    "question": "关于慢启动，以下哪一项描述是错误的",
+    "options": [
+      {
+        "key": "A",
+        "text": "慢启动用于主机启动后快速增加拥塞窗口"
+      },
+      {
+        "key": "B",
+        "text": "发送端每接收到一个ACK，拥塞窗口增加MSS"
+      },
+      {
+        "key": "C",
+        "text": "发送端每经过一轮，将拥塞窗口乘2"
+      },
+      {
+        "key": "D",
+        "text": "发送端每接收到一个ACK，将拥塞窗口乘2"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题正确答案是 D，对应选项“发送端每接收到一个ACK，将拥塞窗口乘2”。",
+    "images": []
+  },
+  {
+    "id": "Q350",
+    "chapter": "第5章｜传输层",
+    "originalChapter": "作业全集补充｜作业11（传输层2）.doc",
+    "number": 12,
+    "type": "single",
+    "question": "关于TCP拥塞控制，以下哪一项描述是错误的",
+    "options": [
+      {
+        "key": "A",
+        "text": "当发送端接收到三个重复的ACK，将拥塞窗口减半，然后线性增加拥塞窗口"
+      },
+      {
+        "key": "B",
+        "text": "如果发生定时器溢出，拥塞窗口降为1个MSS，开始慢启动，直到拥塞窗口等于慢启动阈值，然后线性增加拥塞窗口"
+      },
+      {
+        "key": "C",
+        "text": "如果发生定时器溢出，将当前拥塞窗口的一半作为慢启动阈值"
+      },
+      {
+        "key": "D",
+        "text": "如果发生定时器溢出，将拥塞窗口减半，然后线性增加拥塞窗口"
+      }
+    ],
+    "answer": "D",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 本题正确答案是 D，对应选项“如果发生定时器溢出，将拥塞窗口减半，然后线性增加拥塞窗口”。",
+    "images": []
+  },
+  {
+    "id": "Q351",
+    "chapter": "第6章｜应用层",
+    "originalChapter": "作业全集补充｜作业12-应用层及dhcp.doc",
+    "number": 1,
+    "type": "single",
+    "question": "关于应用层协议，以下哪一项描述是错误的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "应用层协议规定了两个应用进程之间相互作用和交换消息时需要遵循的规则"
+      },
+      {
+        "key": "B",
+        "text": "应用层协议对应的PDU封装成UDP或TCP报文"
+      },
+      {
+        "key": "C",
+        "text": "应用层有多个应用层协议"
+      },
+      {
+        "key": "D",
+        "text": "应用层协议在设计TCP/IP体系结构时确定"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题正确答案是 D，对应选项“应用层协议在设计TCP/IP体系结构时确定”。",
+    "images": []
+  },
+  {
+    "id": "Q352",
+    "chapter": "第6章｜应用层",
+    "originalChapter": "作业全集补充｜作业12-应用层及dhcp.doc",
+    "number": 2,
+    "type": "single",
+    "question": "关于C/S结构，以下哪一项描述是错误的？",
+    "options": [
+      {
+        "key": "A",
+        "text": "C/S结构由客户和服务器组成"
+      },
+      {
+        "key": "B",
+        "text": "资源集中在服务器上"
+      },
+      {
+        "key": "C",
+        "text": "服务器进程一直维持运行状态"
+      },
+      {
+        "key": "D",
+        "text": "客户需要分配固定的IP地址和端口号"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题正确答案是 D，对应选项“客户需要分配固定的IP地址和端口号”。",
+    "images": []
+  },
+  {
+    "id": "Q353",
+    "chapter": "第6章｜应用层",
+    "originalChapter": "作业全集补充｜作业12-应用层及dhcp.doc",
+    "number": 3,
+    "type": "single",
+    "question": "关于DHCP消息封装过程，以下哪一项描述是错误的( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "DHCP消息封装成UDP报文，源和目的端口号都是著名端口号"
+      },
+      {
+        "key": "B",
+        "text": "封装DHCP消息的UDP报文封装成IP分组"
+      },
+      {
+        "key": "C",
+        "text": "主机发送的DHCP消息最终封装成MAC帧"
+      },
+      {
+        "key": "D",
+        "text": "主机至DHCP服务器的IP分组，传输过程中是不变的"
+      }
+    ],
+    "answer": "D",
+    "explanation": "DHCP 题记住四步：Discover、Offer、Request、ACK。客户机未获地址前常用 0.0.0.0 作源地址，用 255.255.255.255 广播寻找服务器。 本题正确答案是 D，对应选项“主机至DHCP服务器的IP分组，传输过程中是不变的”。",
+    "images": []
+  },
+  {
+    "id": "Q354",
+    "chapter": "第6章｜应用层",
+    "originalChapter": "作业全集补充｜作业13（dns和http）.doc",
+    "number": 1,
+    "type": "single",
+    "question": "浏览器与Web服务器之间使用的应用层协议是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "DNS"
+      },
+      {
+        "key": "B",
+        "text": "DHCP"
+      },
+      {
+        "key": "C",
+        "text": "HTTP"
+      },
+      {
+        "key": "D",
+        "text": "SMTP"
+      }
+    ],
+    "answer": "C",
+    "explanation": "HTTP 题先拆 URL：协议类型、主机名、路径文件名；浏览器访问 Web 通常先 DNS 解析，再建立 TCP 连接，最后发送 HTTP 请求。 本题正确答案是 C，对应选项“HTTP”。",
+    "images": []
+  },
+  {
+    "id": "Q355",
+    "chapter": "第6章｜应用层",
+    "originalChapter": "作业全集补充｜作业13（dns和http）.doc",
+    "number": 2,
+    "type": "single",
+    "question": "万维网上的每个页面都有一个唯一的地址，这些地址统称为（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "IP 地址"
+      },
+      {
+        "key": "B",
+        "text": "域名地址"
+      },
+      {
+        "key": "C",
+        "text": "统一资源定位符 URL"
+      },
+      {
+        "key": "D",
+        "text": "WWW 地址"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题正确答案是 C，对应选项“统一资源定位符 URL”。",
+    "images": []
+  },
+  {
+    "id": "Q356",
+    "chapter": "第6章｜应用层",
+    "originalChapter": "作业全集补充｜作业13（dns和http）.doc",
+    "number": 3,
+    "type": "single",
+    "question": "标准的URL由3部分组成：协议类型、主机名和( )。",
+    "options": [
+      {
+        "key": "A",
+        "text": "客户名"
+      },
+      {
+        "key": "B",
+        "text": "浏览器名"
+      },
+      {
+        "key": "C",
+        "text": "文件路径"
+      },
+      {
+        "key": "D",
+        "text": "进程名"
+      }
+    ],
+    "answer": "C",
+    "explanation": "HTTP 题先拆 URL：协议类型、主机名、路径文件名；浏览器访问 Web 通常先 DNS 解析，再建立 TCP 连接，最后发送 HTTP 请求。 本题正确答案是 C，对应选项“文件路径”。",
+    "images": []
+  },
+  {
+    "id": "Q357",
+    "chapter": "第6章｜应用层",
+    "originalChapter": "作业全集补充｜作业13（dns和http）.doc",
+    "number": 4,
+    "type": "single",
+    "question": "TCP和UDP的一些端口保留给一些特定的应用使用。为HTTP保留的端口号为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "TCP 的 80 端口"
+      },
+      {
+        "key": "B",
+        "text": "UDP 的 80 端"
+      },
+      {
+        "key": "C",
+        "text": "TCP 的 25 端"
+      },
+      {
+        "key": "D",
+        "text": "UDP 的 25 端"
+      }
+    ],
+    "answer": "A",
+    "explanation": "传输层题先分清 TCP 与 UDP：TCP 面向连接、可靠、按序、面向字节流；UDP 无连接、开销小、不保证可靠。端口号用于把数据交给具体应用进程。 HTTP 题先拆 URL：协议类型、主机名、路径文件名；浏览器访问 Web 通常先 DNS 解析，再建立 TCP 连接，最后发送 HTTP 请求。 本题正确答案是 A，对应选项“TCP 的 80 端口”。",
+    "images": []
+  },
+  {
+    "id": "Q358",
+    "chapter": "第6章｜应用层",
+    "originalChapter": "作业全集补充｜作业13（dns和http）.doc",
+    "number": 5,
+    "type": "single",
+    "question": "DNS的功能是",
+    "options": [
+      {
+        "key": "A",
+        "text": "根据IP地址查询MAC地址"
+      },
+      {
+        "key": "B",
+        "text": "根据MAC地址查询IP地址"
+      },
+      {
+        "key": "C",
+        "text": "根据域名查询IP地址"
+      },
+      {
+        "key": "D",
+        "text": "根据IP地址查询域名"
+      }
+    ],
+    "answer": "C",
+    "explanation": "DNS 题抓核心：DNS 用于把域名解析为 IP 地址；客户端通常先问本地域名服务器，本地域名服务器再递归/迭代查询其他服务器。 本题正确答案是 C，对应选项“根据域名查询IP地址”。",
+    "images": []
+  },
+  {
+    "id": "Q359",
+    "chapter": "第6章｜应用层",
+    "originalChapter": "作业全集补充｜作业13（dns和http）.doc",
+    "number": 6,
+    "type": "single",
+    "question": "关于分层域名结构，以下哪一项描述是错误的( )。",
+    "options": [
+      {
+        "key": "A",
+        "text": "分层域名结构可以完整标识主机的组织属性"
+      },
+      {
+        "key": "B",
+        "text": "分层域名结构更容易为每一个主机产生唯一的完全合格的域名"
+      },
+      {
+        "key": "C",
+        "text": "分层域名结构使得完全合格的域名更加好记"
+      },
+      {
+        "key": "D",
+        "text": "分层域名结构与子网划分一致"
+      }
+    ],
+    "answer": "D",
+    "explanation": "DNS 题抓核心：DNS 用于把域名解析为 IP 地址；客户端通常先问本地域名服务器，本地域名服务器再递归/迭代查询其他服务器。 本题正确答案是 D，对应选项“分层域名结构与子网划分一致”。",
     "images": []
   }
 ];
@@ -5904,27 +8258,27 @@ window.QUESTION_BANK = [
 window.CHAPTERS = [
   {
     "title": "第1章｜计算机网络概述",
-    "count": 56
+    "count": 73
   },
   {
     "title": "第2章｜物理层",
-    "count": 15
+    "count": 30
   },
   {
     "title": "第3章｜数据链路层",
-    "count": 55
+    "count": 81
   },
   {
     "title": "第4章｜网络层",
-    "count": 57
+    "count": 70
   },
   {
     "title": "第5章｜传输层",
-    "count": 25
+    "count": 42
   },
   {
     "title": "第6章｜应用层",
-    "count": 43
+    "count": 52
   },
   {
     "title": "第7章｜综合应用大题",
